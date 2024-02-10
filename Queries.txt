@@ -1,0 +1,100 @@
+Query 1:
+--------------------------------------------
+
+PREFIX fo: <http://purl.org/ontology/fo/>
+PREFIX db: <http://dbpedia.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dbp: <http://dbpedia.org/property/>
+
+SELECT ?a ?birthPlaceLabel ?nationalityLabel ?deathPlaceLabel WHERE {
+  ?a rdf:type dbo:Writer.
+  
+  OPTIONAL {
+    ?a dbo:birthPlace ?birthPlace.
+    OPTIONAL {?birthPlace rdfs:label ?birthPlaceTmp FILTER(LANG(?birthPlaceTmp) = "en")}
+    BIND(COALESCE(?birthPlaceTmp, STR(?birthPlace)) AS ?birthPlaceLabel)
+  }
+  
+  OPTIONAL {
+    ?a dbp:nationality ?nationality.
+    OPTIONAL {?nationality rdfs:label ?nationalityTmp FILTER(LANG(?nationalityTmp) = "en")}
+    BIND(COALESCE(?nationalityTmp, STR(?nationality)) AS ?nationalityLabel)
+  }
+  
+  OPTIONAL {
+    ?a dbp:deathPlace ?deathPlace.
+    OPTIONAL {?deathPlace rdfs:label ?deathPlaceTmp FILTER(LANG(?deathPlaceTmp) = "en")}
+    BIND(COALESCE(?deathPlaceTmp, STR(?deathPlace)) AS ?deathPlaceLabel)
+  }
+}
+
+
+Query:2
+-----------------------------------------------
+
+PREFIX fo: <http://purl.org/ontology/fo/>
+PREFIX db: <http://dbpedia.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dbp: <http://dbpedia.org/property/>
+
+SELECT ?writer ?birthPlaceLabel ?nationality ?country ?deathPlaceLabel WHERE {
+  ?writer rdf:type dbo:Writer .
+  
+  OPTIONAL {
+    ?writer dbo:birthPlace ?birthPlace .
+    ?birthPlace rdfs:label ?birthPlaceLabel .
+    FILTER(LANG(?birthPlaceLabel) = "en")
+  }
+  
+  OPTIONAL {
+    ?writer dbp:nationality ?nationality .
+  }
+  
+  OPTIONAL {
+    ?writer dbo:country ?country .
+  }
+  
+  OPTIONAL {
+    ?writer dbo:deathPlace ?deathPlace .
+    OPTIONAL {?deathPlace rdfs:label ?deathPlaceLabel FILTER(LANG(?deathPlaceLabel) = "en")}
+    BIND(COALESCE(?deathPlaceLabel, STR(?deathPlace)) AS ?deathPlaceLabel)
+  }
+}
+
+Query:3
+--------------------------------------------------
+PREFIX fo: <http://purl.org/ontology/fo/>
+PREFIX db: <http://dbpedia.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dbp: <http://dbpedia.org/property/>
+
+SELECT ?writer ?childLabel ?parentLabel ?spouseLabel WHERE {
+  ?writer rdf:type dbo:Writer .
+  
+  OPTIONAL {
+    ?writer dbo:child ?child .
+    ?child rdfs:label ?childLabel .
+    FILTER(LANG(?childLabel) = "en")
+  }
+  
+  OPTIONAL {
+    ?child dbo:parent ?parent .
+    ?parent rdfs:label ?parentLabel .
+    FILTER(LANG(?parentLabel) = "en")
+  }
+  
+  OPTIONAL {
+    ?writer dbo:spouse ?spouse .
+    ?spouse rdfs:label ?spouseLabel .
+    FILTER(LANG(?spouseLabel) = "en")
+  }
+}
