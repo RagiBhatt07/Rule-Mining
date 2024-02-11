@@ -1,0 +1,30 @@
+db:location, db:foundingdate
+db:tenant-inv
+db:name, db:location, db:type
+db:name, db:foundingdate
+db:architect, db:architecturalstyle, db:location
+db:homepage, db:director, db:location, db:type
+db:museum-inv, db:type
+db:part-inv
+db:country
+db:yearofconstruction
+db:owner-inv
+db:point, db:homepage, db:wgs84_pos#long, db:wgs84_pos#lat
+db:rdf-schema#seealso
+db:board-inv
+db:battle-inv
+db:language, db:location
+db:rdf-schema#seealso-inv
+db:numberofvisitors, db:location, db:type
+db:significantproject-inv
+db:added
+db:employer-inv
+db:field-inv
+db:language, db:type
+db:collection
+db:training-inv
+db:owl#differentfrom
+db:curator, db:location
+db:point, db:wgs84_pos#long, db:wgs84_pos#lat, db:location, db:type
+db:museum-inv, db:location
+db:significantbuilding-inv, db:type

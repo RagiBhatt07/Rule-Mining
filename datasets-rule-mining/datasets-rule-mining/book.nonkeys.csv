@@ -1,0 +1,133 @@
+db:name, db:country, db:author, db:coverartist, db:mediatype, db:publisher, db:language, db:isbn
+db:oclc, db:author, db:publisher, db:illustrator
+db:basedon-inv, db:author, db:coverartist, db:literarygenre, db:mediatype, db:series
+db:country, db:author, db:literarygenre, db:publisher, db:series, db:owl#differentfrom, db:language
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:numberofpages, db:illustrator
+db:subsequentwork, db:author, db:literarygenre, db:nonfictionsubject, db:mediatype, db:series
+db:country, db:author, db:mediatype, db:owl#differentfrom, db:language
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:translator, db:illustrator
+db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:previouswork, db:rdf-schema#seealso-inv
+db:author, db:literarygenre, db:nonfictionsubject, db:publisher, db:notablework-inv
+db:name, db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:language, db:isbn, db:numberofpages
+db:subsequentwork, db:author, db:literarygenre, db:series, db:notablework-inv, db:language
+db:mediatype, db:dcc, db:publicationdate
+db:coverartist, db:literarygenre, db:nonfictionsubject, db:mediatype, db:publisher, db:series, db:isbn, db:numberofpages
+db:country, db:author, db:series, db:language, db:rdf-schema#seealso
+db:country, db:oclc, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:numberofpages
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:previouswork, db:language, db:isbn
+db:author, db:literarygenre, db:publisher, db:lcc, db:language, db:owl#differentfrom-inv
+db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:isbn, db:numberofpages, db:illustrator
+db:country, db:author, db:publisher, db:notablework-inv, db:language, db:translator, db:numberofpages
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:language, db:isbn, db:illustrator
+db:author, db:coverartist, db:literarygenre, db:nonfictionsubject, db:mediatype, db:publisher, db:series, db:isbn
+db:subsequentwork, db:coverartist, db:literarygenre, db:nonfictionsubject, db:mediatype, db:publisher, db:series, db:isbn
+db:name, db:author, db:literarygenre, db:mediatype, db:publisher, db:rdf-schema#seealso
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:dcc, db:illustrator
+db:author, db:nonfictionsubject, db:knownfor-inv
+db:mediatype, db:owl#differentfrom-inv
+db:oclc, db:author, db:isbn, db:numberofpages, db:publicationdate
+db:name, db:owl#differentfrom, db:language
+db:country, db:oclc, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:lcc, db:series, db:language, db:isbn
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:notablework-inv, db:language
+db:notablework-inv, db:rdf-schema#seealso-inv
+db:author, db:literarygenre, db:nonfictionsubject, db:publisher, db:series, db:previouswork
+db:country, db:oclc, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:isbn, db:translator
+db:coverartist, db:nonfictionsubject, db:mediatype, db:publisher, db:dcc
+db:country, db:author, db:literarygenre, db:series, db:language, db:rdf-schema#seealso-inv
+db:mediatype, db:rdf-schema#seealso, db:dcc
+db:country, db:subsequentwork, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:dcc
+db:oclc, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:lcc, db:dcc, db:numberofpages
+db:author, db:nonfictionsubject, db:publisher, db:series, db:notablework-inv
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:isbn, db:illustrator
+db:author, db:literarygenre, db:mediatype, db:owl#differentfrom, db:language, db:dcc
+db:author, db:coverartist, db:literarygenre, db:nonfictionsubject, db:mediatype, db:publisher, db:series, db:numberofpages
+db:country, db:subsequentwork, db:author, db:coverartist, db:literarygenre, db:mediatype, db:series, db:language, db:dcc
+db:author, db:nonfictionsubject, db:notablework-inv, db:rdf-schema#seealso
+db:country, db:language, db:dcc, db:publicationdate
+db:country, db:nonfictionsubject, db:numberofpages
+db:author, db:coverartist, db:notablework-inv, db:numberofpages, db:illustrator
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:language, db:translator, db:numberofpages
+db:author, db:literarygenre, db:nonfictionsubject, db:mediatype, db:publisher, db:series, db:isbn, db:numberofpages
+db:author, db:literarygenre, db:series, db:rdf-schema#seealso
+db:publisher, db:series, db:numberofpages, db:illustrator, db:publicationdate
+db:author, db:literarygenre, db:knownfor-inv, db:publisher, db:series, db:notablework-inv
+db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:numberofpages, db:rdf-schema#seealso-inv
+db:name, db:author, db:literarygenre, db:publisher, db:illustrator
+db:subsequentwork, db:literarygenre, db:nonfictionsubject, db:mediatype, db:previouswork
+db:oclc, db:author, db:literarygenre, db:previouswork-inv, db:mediatype, db:publisher, db:notablework-inv
+db:name, db:subsequentwork, db:author, db:series, db:previouswork, db:illustrator
+db:oclc, db:mediatype, db:publicationdate
+db:author, db:literarygenre, db:publisher, db:rdf-schema#seealso, db:rdf-schema#seealso-inv
+db:author, db:literarygenre, db:mediatype, db:knownfor-inv, db:publisher
+db:country, db:subsequentwork, db:author, db:literarygenre, db:mediatype, db:publisher, db:language, db:numberofpages
+db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:numberofpages, db:lastappearance-inv
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:previouswork, db:language, db:isbn, db:numberofpages
+db:oclc, db:author, db:literarygenre, db:dcc, db:illustrator
+db:country, db:oclc, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:isbn, db:numberofpages
+db:country, db:author, db:mediatype, db:publisher, db:language, db:dcc, db:translator, db:numberofpages
+db:author, db:nonfictionsubject, db:publisher, db:series, db:publicationdate
+db:author, db:literarygenre, db:dcc, db:numberofpages, db:illustrator
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:language, db:isbn, db:numberofpages, db:illustrator
+db:author, db:nonfictionsubject, db:publisher, db:numberofpages, db:illustrator
+db:name, db:subsequentwork, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:previouswork, db:isbn, db:numberofpages
+db:author, db:literarygenre, db:series, db:notablework-inv, db:previouswork, db:language
+db:author, db:literarygenre, db:notableidea-inv
+db:country, db:oclc, db:author, db:literarygenre, db:mediatype, db:publisher, db:notablework-inv, db:language, db:isbn, db:numberofpages
+db:country, db:author, db:literarygenre, db:nonfictionsubject, db:publisher, db:series, db:language
+db:nonfictionsubject, db:mediatype, db:dcc, db:numberofpages
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:previouswork, db:language, db:dcc
+db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:dcc, db:rdf-schema#seealso-inv
+db:country, db:author, db:literarygenre, db:knownfor-inv, db:publisher, db:language
+db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:notablework-inv, db:illustrator
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:isbn, db:numberofpages, db:publicationdate
+db:literarygenre, db:publisher, db:notablework-inv, db:dcc, db:illustrator
+db:author, db:literarygenre, db:nonfictionsubject, db:mediatype, db:series, db:dcc
+db:author, db:coverartist, db:literarygenre, db:publisher, db:notablework-inv, db:illustrator
+db:country, db:oclc, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:lcc, db:language, db:dcc, db:translator
+db:country, db:author, db:literarygenre, db:mediatype, db:notablework-inv, db:previouswork, db:language
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:dcc, db:lastappearance-inv
+db:name, db:oclc, db:author, db:coverartist, db:literarygenre, db:publisher, db:previouswork, db:numberofpages
+db:author, db:literarygenre, db:mediatype, db:series, db:owl#differentfrom, db:language
+db:literarygenre, db:language, db:relative-inv
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:notablework-inv, db:language, db:illustrator
+db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:isbn, db:translator, db:illustrator
+db:oclc, db:author, db:nonfictionsubject, db:notablework-inv
+db:country, db:subsequentwork, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language
+db:subsequentwork, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:previouswork
+db:name, db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language
+db:subsequentwork, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:rdf-schema#seealso-inv
+db:author, db:literarygenre, db:nonfictionsubject, db:mediatype, db:notablework-inv, db:dcc
+db:coverartist, db:nonfictionsubject, db:mediatype, db:publisher, db:isbn, db:illustrator
+db:country, db:author, db:literarygenre, db:series, db:numberofpages, db:lastappearance-inv
+db:country, db:oclc, db:literarygenre, db:mediatype, db:publisher, db:lcc, db:series, db:language, db:isbn, db:numberofpages
+db:name, db:oclc, db:literarygenre, db:mediatype, db:publisher, db:isbn, db:numberofpages
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:dcc, db:isbn
+db:literarygenre, db:influencedby-inv
+db:author, db:publisher, db:notablework-inv, db:dcc, db:numberofpages
+db:author, db:literarygenre, db:nonfictionsubject, db:language, db:isbn
+db:author, db:nonfictionsubject, db:notablework-inv, db:previouswork
+db:country, db:subsequentwork, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:previouswork, db:language, db:illustrator
+db:author, db:series, db:notablework-inv, db:translator
+db:publisher, db:influencedby-inv
+db:subsequentwork, db:author, db:coverartist, db:publisher, db:illustrator
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:dcc, db:numberofpages
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:previouswork, db:language
+db:author, db:nonfictionsubject, db:mediatype, db:numberofpages, db:illustrator
+db:author, db:coverartist, db:literarygenre, db:mediatype, db:lastappearance-inv
+db:name, db:country, db:oclc, db:author, db:literarygenre, db:mediatype, db:publisher, db:lcc, db:series, db:language, db:dcc, db:isbn
+db:nonfictionsubject, db:lcc, db:dcc
+db:country, db:subsequentwork, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:isbn
+db:author, db:literarygenre, db:nonfictionsubject, db:mediatype, db:series, db:previouswork, db:isbn
+db:country, db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:notablework-inv, db:language, db:dcc
+db:country, db:starring, db:language
+db:author, db:literarygenre, db:mediatype, db:notablework-inv, db:numberofpages, db:illustrator
+db:country, db:author, db:coverartist, db:literarygenre, db:nonfictionsubject, db:mediatype, db:publisher, db:language
+db:country, db:author, db:coverartist, db:literarygenre, db:mediatype, db:publisher, db:series, db:language, db:isbn, db:numberofpages
+db:author, db:literarygenre, db:nonfictionsubject, db:mediatype, db:publisher, db:dcc
+db:author, db:literarygenre, db:mediatype, db:publisher, db:series, db:notablework-inv, db:isbn
+db:name, db:literarygenre, db:nonfictionsubject
+db:name, db:country, db:oclc, db:author, db:literarygenre, db:lcc, db:language, db:dcc, db:isbn, db:numberofpages
+db:author, db:mediatype, db:publisher, db:notablework-inv, db:publicationdate
+db:name, db:country, db:author, db:publisher, db:language, db:translator
+db:literarygenre, db:nonfictionsubject, db:mediatype, db:publicationdate
+db:country, db:author, db:literarygenre, db:publisher, db:notablework-inv, db:language, db:translator

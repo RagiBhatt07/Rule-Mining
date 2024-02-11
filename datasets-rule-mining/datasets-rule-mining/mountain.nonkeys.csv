@@ -1,0 +1,79 @@
+mountainrange, locatedinarea, name, owl#differentfrom
+region-inv, elevation, country
+location-inv, origin-inv
+point, wgs84_pos#long, locatedinarea, elevation, name, wgs84_pos#lat
+mountainrange, locatedinarea, elevation, name
+location, routejunction-inv
+mountainrange, locatedinarea, source-inv, nationaltopographicsystemmapnumber
+sourceplace-inv, location-inv, mountainrange, sourcemountain-inv, locatedinarea
+mountainrange, locatedinarea, elevation, nationaltopographicsystemmapnumber, parentmountainpeak
+source-inv, state, country
+firstascentperson, firstascentyear, mountainrange, locatedinarea, parentmountainpeak
+locatedinarea, name, province, country
+sourceplace-inv, sourcemountain-inv, state
+firstascentyear, mountainrange, locatedinarea, source-inv
+wgs84_pos#long, mountainrange, locatedinarea, ispartof, country
+location, locatedinarea, province, country
+state, border-inv, country
+mountainrange, locatedinarea, elevation, prominence, parentmountainpeak
+point, wgs84_pos#long, mountainrange, locatedinarea, elevation, prominence, wgs84_pos#lat, type, nationaltopographicsystemmapnumber
+state, sourceregion-inv
+mountainrange, locatedinarea, province, type, nationaltopographicsystemmapnumber, country
+rdf-schema#seealso, mountainrange, locatedinarea
+mountainrange, locatedinarea, nationaltopographicsystemmapnumber, rdf-schema#seealso-inv
+deathplace-inv, elevation
+wgs84_pos#long, mountainrange, locatedinarea, nationaltopographicsystemmapnumber, parentmountainpeak
+locatedinarea, province, prominence, country
+mountainrange, locatedinarea, elevation, province, type, country
+firstascentperson, firstascentyear, mountainrange, locatedinarea, wgs84_pos#lat, type
+firstascentperson, firstascentyear, mountainrange, locatedinarea, elevation, nationaltopographicsystemmapnumber
+firstascentperson, firstascentyear, wgs84_pos#long, mountainrange, locatedinarea
+mountainrange, locatedinarea, name, type, othername
+place-inv, country
+elevation, state, country
+location, name
+firstascentperson, mountainrange, locatedinarea, prominence
+highestplace-inv, highestmountain-inv
+locatedinarea, elevation, name, prominence, nationaltopographicsystemmapnumber
+rdf-schema#seealso, country
+source-inv, owl#differentfrom
+region
+firstascentyear, mountainrange, locatedinarea, prominence, parentmountainpeak
+mountainrange, locatedinarea, righttributary-inv, type
+locatedinarea, owl#differentfrom, othername
+elevation, mountainrange-inv, country
+region-inv, name
+firstascentyear, locatedinarea, othername
+knownfor-inv
+name, state, country
+location, mountainrange, locatedinarea, type
+source-inv, elevation, state
+mountainrange, locatedinarea, type, nationaltopographicsystemmapnumber, parentmountainpeak
+mountainrange, locatedinarea, prominence, nationaltopographicsystemmapnumber, parentmountainpeak
+elevation, highestplace-inv
+eruptionyear, locatedinarea, elevation
+origin-inv, country
+firstascentyear, mountainrange, locatedinarea, prominence, nationaltopographicsystemmapnumber
+eruptionyear, mountainrange, locatedinarea, type, nationaltopographicsystemmapnumber
+inflow-inv, locatedinarea
+mountainrange, locatedinarea, parentmountainpeak-inv, parentmountainpeak
+owl#differentfrom-inv
+firstascentyear, mountainrange, locatedinarea, name
+firstascentyear, locatedinarea, elevation, prominence
+firstascentperson, firstascentyear, mountainrange, locatedinarea, type, nationaltopographicsystemmapnumber
+name, border-inv
+city-inv, mountainrange, locatedinarea, elevation
+firstascentyear, mountainrange, locatedinarea, wgs84_pos#lat, nationaltopographicsystemmapnumber
+mountainrange, locatedinarea, name, nationaltopographicsystemmapnumber
+mountainrange, locatedinarea, name, othername, parentmountainpeak
+rdf-schema#seealso, name, state
+sourceplace-inv, sourcemountain-inv, locatedinarea, nationaltopographicsystemmapnumber
+locatedinarea, place-inv
+firstascentyear, mountainrange, locatedinarea, province, nationaltopographicsystemmapnumber, country
+geology, minimumelevation, range, biome, geologicperiod, state, maximumelevation, type, lowest, highestregion, country
+firstascentperson, mountainrange, locatedinarea, nationaltopographicsystemmapnumber, parentmountainpeak
+state, mountainrange-inv
+locatedinarea, border-inv
+firstascentyear, mountainrange, locatedinarea, nationaltopographicsystemmapnumber, parentmountainpeak
+location-inv, mountainrange-inv, country
+sourceplace-inv, sourcemountain-inv, elevation

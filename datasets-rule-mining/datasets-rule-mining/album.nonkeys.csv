@@ -1,0 +1,94 @@
+db:name, db:recordlabel, db:genre, db:language, db:recordedin, db:artist, db:type
+db:recordlabel, db:genre, db:musiccomposer-inv
+db:genre, db:format
+db:subsequentwork-inv, db:recordlabel, db:genre, db:rdf-schema#seealso, db:artist
+db:subsequentwork, db:compiler, db:recordlabel, db:genre, db:runtime
+db:recordlabel, db:genre, db:language, db:recordedin, db:artist, db:type, db:producer
+db:genre, db:language, db:previouswork, db:recordedin, db:type
+db:openingtheme-inv
+db:bside
+db:subsequentwork, db:previouswork-inv, db:recordlabel, db:genre, db:artist
+db:name, db:subsequentwork, db:recordlabel, db:genre, db:runtime, db:language, db:producer
+db:recordlabel, db:genre, db:artist, db:rdf-schema#seealso-inv, db:type
+db:recordlabel, db:genre, db:language, db:artist, db:releasedate, db:type
+db:name, db:recordlabel, db:genre, db:language, db:previouswork, db:releasedate, db:producer
+db:name, db:recorddate, db:recordlabel, db:recordedin, db:artist
+db:picture, db:recordlabel, db:genre, db:recordedin, db:artist, db:type, db:producer
+db:recorddate, db:recordlabel, db:genre, db:recordedin, db:artist, db:releasedate, db:producer
+db:subsequentwork, db:recordlabel, db:genre, db:language, db:recordedin, db:artist, db:producer
+db:recorddate, db:recordlabel, db:genre, db:language, db:artist, db:producer
+db:recordlabel, db:genre, db:language, db:previouswork, db:artist, db:type
+db:longtype, db:recordlabel, db:genre, db:releasedate
+db:associatedband-inv, db:associatedmusicalartist-inv, db:recordedin, db:producer
+db:name, db:longtype, db:recordedin
+db:name, db:genre, db:artist, db:rdf-schema#seealso-inv, db:producer
+db:recordlabel, db:owl#differentfrom-inv, db:type
+db:name, db:longtype, db:compiler, db:recordlabel, db:genre, db:runtime
+db:name, db:subsequentwork, db:recorddate, db:recordlabel, db:genre, db:runtime, db:previouswork, db:artist, db:releasedate, db:type, db:producer
+db:recordlabel, db:genre, db:owl#differentfrom, db:artist, db:releasedate, db:type, db:producer
+db:recordlabel, db:genre, db:artist, db:rdf-schema#seealso-inv, db:producer
+db:recordlabel, db:genre, db:runtime, db:recordedin, db:artist, db:type, db:producer
+db:genre, db:recordlabel-inv
+db:associatedband-inv, db:associatedmusicalartist-inv, db:recordlabel, db:genre, db:recordedin
+db:name, db:album-inv, db:genre, db:artist
+db:longtype, db:recordlabel, db:genre, db:recordedin, db:artist, db:producer
+db:album-inv, db:recordlabel, db:genre, db:recordedin, db:artist, db:releasedate, db:producer
+db:subsequentwork, db:picture, db:recordlabel, db:genre, db:artist, db:producer
+db:album-inv, db:recorddate, db:genre, db:recordedin, db:artist
+db:award-inv, db:recordlabel, db:genre, db:language, db:artist
+db:name, db:recordlabel, db:genre, db:language, db:artist, db:type, db:producer
+db:recordlabel, db:rdf-schema#seealso, db:artist, db:producer
+db:recordlabel, db:genre, db:runtime, db:language, db:type
+db:subsequentwork-inv, db:recordlabel, db:genre, db:previouswork, db:artist
+db:rdf-schema#seealso, db:artist, db:type, db:producer
+db:recordlabel, db:genre, db:recordedin-inv, db:artist, db:producer
+db:subsequentwork, db:recordlabel, db:genre, db:language, db:previouswork, db:artist
+db:name, db:subsequentwork, db:recordlabel, db:genre, db:runtime, db:previouswork, db:recordedin, db:artist, db:releasedate, db:producer
+db:name, db:genre, db:runtime, db:language, db:artist, db:type, db:producer
+db:name, db:subsequentwork, db:longtype, db:compiler, db:recordlabel, db:runtime
+db:name, db:recordlabel, db:genre, db:recordedin, db:artist, db:type, db:producer
+db:subsequentwork, db:recorddate, db:recordlabel, db:genre, db:recordedin, db:artist, db:producer
+db:name, db:recordlabel, db:genre, db:runtime, db:language, db:artist, db:releasedate, db:producer
+db:recordlabel, db:genre, db:director, db:recordedin, db:artist, db:releasedate, db:producer
+db:recordlabel, db:genre, db:language, db:recordedin, db:artist, db:releasedate, db:producer
+db:associatedband-inv, db:associatedmusicalartist-inv, db:recordlabel, db:genre, db:artist, db:producer
+db:compiler, db:recordlabel, db:genre, db:artist, db:producer
+db:name, db:longtype, db:recordlabel, db:genre, db:runtime, db:previouswork
+db:picture, db:recordlabel, db:genre, db:language, db:recordedin, db:artist, db:type
+db:subsequentwork, db:genre, db:runtime, db:recordedin, db:artist, db:type, db:producer
+db:recordlabel, db:format
+db:subsequentwork, db:longtype, db:recordlabel, db:genre, db:runtime, db:previouswork
+db:longtype, db:runtime, db:releasedate
+db:recorddate, db:recordlabel, db:genre, db:previouswork, db:recordedin, db:artist
+db:longtype, db:recordlabel, db:genre, db:artist, db:type, db:producer
+db:nonfictionsubject-inv
+db:recordlabel, db:genre, db:director, db:runtime, db:artist
+db:recordlabel, db:genre, db:rdf-schema#seealso, db:producer
+db:recorddate, db:recordlabel, db:genre, db:runtime, db:recordedin, db:artist, db:producer
+db:type, db:musiccomposer-inv
+db:owl#differentfrom, db:owl#differentfrom-inv
+db:picture, db:recordlabel, db:genre, db:artist, db:releasedate, db:producer
+db:name, db:longtype, db:language, db:artist
+db:album-inv, db:recordlabel, db:genre, db:runtime, db:artist, db:type, db:producer
+db:album-inv, db:genre, db:previouswork, db:artist, db:producer
+db:previouswork-inv, db:genre, db:recordedin, db:artist, db:producer
+db:recordlabel, db:genre, db:runtime, db:language, db:previouswork, db:recordedin, db:artist, db:producer
+db:subsequentwork, db:recordlabel, db:genre, db:recordedin, db:artist, db:type, db:producer
+db:director, db:language
+db:genre, db:rdf-schema#seealso, db:artist, db:producer
+db:album-inv, db:subsequentwork, db:previouswork, db:artist
+db:associatedband-inv, db:associatedmusicalartist-inv, db:recordlabel, db:genre, db:bandmember-inv, db:producer
+db:compiler, db:genre, db:artist, db:type, db:producer
+db:album-inv, db:recordlabel, db:genre, db:language, db:artist, db:producer
+db:recorddate, db:genre, db:runtime, db:recordedin, db:artist, db:releasedate
+db:recordlabel, db:genre, db:recordedin, db:artist, db:releasedate, db:type, db:producer
+db:longtype, db:recordlabel, db:genre, db:language, db:artist, db:producer
+db:name, db:recorddate, db:recordlabel, db:genre, db:recordedin, db:releasedate
+db:subsequentwork, db:picture, db:recordedin, db:artist, db:producer
+db:recorddate, db:recordlabel, db:genre, db:recordedin, db:artist, db:type, db:producer
+db:album-inv, db:subsequentwork, db:recorddate, db:recordlabel, db:genre, db:artist, db:producer
+db:subsequentwork, db:recorddate, db:genre, db:previouswork, db:recordedin, db:artist, db:producer
+db:subsequentwork, db:previouswork-inv, db:genre, db:artist, db:producer
+db:compiler, db:recordlabel, db:genre, db:artist, db:type
+db:album-inv, db:recordlabel, db:previouswork, db:artist
+db:album-inv, db:recordlabel, db:genre, db:recordedin, db:artist, db:type, db:producer

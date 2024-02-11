@@ -1,0 +1,245 @@
+starring-inv, birthplace, description, height
+country, writer-inv, deathplace
+country, birthyear, showjudge-inv, recordlabel
+starring-inv, country, award, genre, description
+spouse-inv, height
+deathyear, deathcause
+country, birthplace, voice-inv, description
+starring-inv, country, influenced, genre, influencedby-inv
+birthplace, ethnicity, description, height
+starring-inv, influenced-inv, portrayer-inv, country, occupation, birthyear
+starring-inv, country, birthplace, description, producer-inv
+country, occupation, genre, instrument, voicetype
+country, rdf-schema#seealso, activeyearsstartyear, recordlabel, genre, description, pastmember-inv, associatedact, currentmember-inv, homepage
+starring-inv, country, occupation, birthplace, activeyearsstartyear, description, deathplace
+starring-inv, country, occupation, birthyear, bandmember-inv, description, associatedact
+country, occupation, birthplace, genre, instrument, activeyearsendyear
+country, relative-inv, relative
+birthyear, voice-inv, description
+starring-inv, country, director-inv, award, producer-inv
+country, occupation, activeyearsstartyear, name, description
+nationality, birthplace, description, height
+starring-inv, parent, birthplace, description
+starring-inv, country, occupation, birthyear, birthplace, recordlabel, genre
+starring-inv, deathyear, birthplace, description, deathplace
+country, deathyear, deathdate
+country, birthyear, birthplace, presenter-inv
+starring-inv, country, award, birthyear, birthplace
+birthplace, deathplace, height
+country, occupation, genre, homepage
+country, activeyearsstartyear, showjudge-inv
+starring-inv, country, birthplace, activeyearsstartyear, openingtheme-inv, description
+starring-inv, country, activeyearsstartyear, recordlabel, associatedact, currentmember-inv, homepage
+starring-inv, country, genre, child
+country, openingtheme-inv, recordlabel, genre
+country, occupation, birthplace, activeyearsstartyear, instrument, activeyearsendyear
+birthdate, birthyear, birthplace, ethnicity
+starring-inv, influenced-inv, country, award, occupation
+starring-inv, birthyear, nationality, birthplace, deathplace
+starring-inv, birthyear, ethnicity
+country, occupation, description, instrument, deathplace
+country, birthyear, genre, voicetype
+starring-inv, occupation, knownfor, nationality
+country, occupation, influencedby
+country, director-inv, occupation, birthplace, writer-inv
+starring-inv, guest-inv
+starring-inv, country, award, birthplace, genre
+country, deathyear, birthyear, description
+starring-inv, birthplace, voice-inv, description
+nationality, birthplace, ethnicity, description
+birthplace, description, spouse
+starring-inv, occupation, nationality, birthplace, description, deathplace
+starring-inv, country, director-inv, award, birthyear
+country, occupation, birthyear, activeyearsstartyear, instrument, activeyearsendyear
+starring-inv, country, activeyearsstartyear, bandmember-inv, description, associatedact, activeyearsendyear
+country, recordlabel, genre, producer-inv
+starring-inv, numberoffilms
+occupation, birthyear, nationality, activeyearsstartyear, description, deathplace
+country, description, presenter-inv
+starring-inv, country, activeyearsstartyear, producer-inv
+starring-inv, country, birthplace, genre, deathplace
+starring-inv, portrayer-inv, country, occupation, birthplace
+occupation, birthyear, nationality, birthplace, activeyearsstartyear, deathplace
+starring-inv, country, occupation, deathyear, recordlabel, genre, activeyearsendyear
+starring-inv, nationality, activeyearsstartyear, description, deathplace
+country, birthdate, birthyear, activeyearsstartyear, activeyearsendyear
+country, occupation, birthyear, birthplace, associatedact
+portrayer-inv, birthyear, description
+starring-inv, country, artist-inv, birthplace, recordlabel, description
+occupation, birthyear, birthplace, background, genre
+country, birthyear, height
+description, weight
+starring-inv, country, artist-inv, occupation, birthyear, recordlabel, genre
+nationality, birthplace, ethnicity, deathplace
+starring-inv, country, occupation, birthplace, name, description
+country, birthplace, knownfor-inv, recordlabel, genre
+country, birthyear, recordlabel, genre, description
+starring-inv, type-inv, country, birthyear
+starring-inv, birthplace, ethnicity, height
+starring-inv, country, director-inv, birthplace, writer-inv
+starring-inv, country, occupation, endingtheme-inv, description
+birthdate, birthyear, birthplace, height
+starring-inv, country, occupation, birthplace, openingtheme-inv, description
+starring-inv, country, birthyear, birthplace, activeyearsstartyear, recordlabel, genre
+starring-inv, country, award, occupation, deathplace
+musiccomposer-inv, country, occupation, genre
+occupation, birthplace, voice-inv, description
+country, deathyear, birthyear, activeyearsstartyear
+occupation, nationality, birthplace, activeyearsstartyear, description, deathplace, activeyearsendyear
+country, birthplace, ethnicity, description
+starring-inv, country, occupation, nationality, birthplace, stateoforigin, description
+starring-inv, occupation, birthyear, birthplace, voice-inv
+birthplace, description, numberoffilms, height
+deathyear, birthyear, activeyearsendyear
+country, birthplace, activeyearsstartyear, recordlabel, genre, description, associatedact, currentmember-inv, homepage
+starring-inv, country, bandmember-inv, instrument, associatedact, homepage
+birthyear, description, deathplace, activeyearsendyear
+starring-inv, country, director-inv, description
+birthplace, writer-inv, description, deathplace
+country, occupation, birthyear, birthplace, activeyearsstartyear, description, activeyearsendyear
+country, birthplace, alias
+starring-inv, country, occupation, birthplace, endingtheme-inv, genre
+country, birthyear, writer-inv
+country, occupation, birthdate, birthyear, activeyearsstartyear
+starring-inv, country, voice-inv
+country, occupation, deathyear, nationality, birthplace, stateoforigin, deathplace
+birthyear, birthplace, ethnicity, height
+country, occupation, birthplace, deathcause, description, deathplace
+almamater
+birthplace, deathcause, activeyearsendyear
+child-inv, description
+country, occupation, birthyear, birthplace, activeyearsstartyear, description, deathplace
+description, residence
+starring-inv, country, occupation, openingtheme-inv, genre
+country, guest-inv, occupation, deathyear, birthplace, description, deathplace
+country, occupation, birthyear, birthplace, activeyearsstartyear, genre, activeyearsendyear
+starring-inv, country, genre, producer-inv
+country, activeyearsstartyear, presenter-inv
+occupation, nationality, birthplace, field, description
+birthyear, nationality, birthplace, deathplace, activeyearsendyear
+starring-inv, country, birthplace, recordlabel, description, pastmember-inv, associatedact
+birthplace, ethnicity, numberoffilms, height
+deathyear, birthplace, description, deathplace, deathdate
+country, birthyear, birthplace, ethnicity
+deathyear, nationality, birthplace, activeyearsstartyear, description, deathplace
+country, occupation, birthyear, birthplace, activeyearsstartyear, genre, pastmember-inv
+starring-inv, country, award, birthplace, bandmember-inv, associatedact
+country, occupation, birthyear, activeyearsstartyear, genre, description
+starring-inv, influenced-inv, country, description
+country, occupation, birthyear, nationality
+country, birthplace, activeyearsstartyear, homepage, height
+occupation, birthyear, nationality, birthplace, description, deathplace
+country, genre, presenter-inv
+country, bandmember-inv, genre, instrument, associatedact, voicetype
+country, child-inv, birthplace
+birthplace, ethnicity, description, homepage
+starring-inv, country, occupation, birthplace, activeyearsstartyear, recordlabel, pastmember-inv, associatedact
+occupation, deathyear, nationality, birthplace, description, deathplace
+birthyear, numberoffilms, height
+country, occupation, birthdate, birthyear, birthplace
+country, parent-inv, child
+birthyear, birthplace, description, numberoffilms
+deathyear, birthplace, ethnicity, description
+starring-inv, occupation, birthyear, nationality
+spouse-inv, deathplace
+starring-inv, country, birthyear, nationality, birthplace, activeyearsstartyear
+country, occupation, birthplace, activeyearsstartyear, genre, description, pastmember-inv
+country, occupation, birthplace, description, formerbandmember-inv
+country, birthdate, birthyear, birthplace, name, description
+country, birthplace, recordlabel, genre, description, instrument, voicetype
+starring-inv, country, occupation, birthplace, activeyearsstartyear, recordlabel, genre, associatedact, voicetype, currentmember-inv
+country, occupation, birthyear, activeyearsstartyear, genre, instrument
+starring-inv, country, influenced, genre, influencedby, voicetype
+country, award, genre, voicetype
+country, birthplace, activeyearsstartyear, deathplace, activeyearsendyear
+starring-inv, country, award, occupation, birthplace, activeyearsstartyear, description, activeyearsendyear
+country, deathyear, birthplace, activeyearsstartyear, deathplace
+starring-inv, country, birthplace, activeyearsstartyear, formerbandmember-inv, associatedact
+country, occupation, birthplace, openingtheme-inv, genre, instrument
+type-inv, country, occupation
+birthyear, birthplace, description, height
+country, occupation, birthyear, birthplace, activeyearsstartyear, recordlabel, genre
+country, foundedby-inv, recordlabel, genre, voicetype, homepage
+country, award, birthplace, genre, description
+country, recordlabel, genre, description, influencedby
+country, occupation, knownfor, description
+starring-inv, country, activeyearsstartyear, genre, description, voicetype
+starring-inv, country, ethnicity, activeyearsstartyear, description
+starring-inv, country, birthyear, birthplace, activeyearsstartyear, genre, description
+starring-inv, country, birthyear, birthplace, bandmember-inv, associatedact
+starring-inv, country, occupation, activeyearsstartyear, endingtheme-inv, genre
+country, endingtheme-inv, genre, description, influencedby
+birthdate, birthyear, nationality
+spouse-inv, description
+starring-inv, ethnicity, description, height
+country, occupation, birthyear, birthplace, genre, description, instrument
+deathyear, birthplace, ethnicity, deathplace
+country, occupation, activeyearsstartyear, recordlabel, instrument, activeyearsendyear
+country, occupation, birthyear, voicetype
+starring-inv, country, occupation, birthplace, activeyearsstartyear, recordlabel, genre, associatedact, activeyearsendyear
+country, citizenship
+portrayer-inv, country, occupation, birthplace, description
+starring-inv, country, openingtheme-inv, endingtheme-inv, description
+country, occupation, nationality, birthplace, stateoforigin, activeyearsendyear
+occupation, deathyear, activeyearsstartyear, activeyearsendyear
+ethnicity, description, numberoffilms
+deathyear, ethnicity, height
+country, occupation, birthplace, description, voicetype
+country, openingtheme-inv, genre, description
+country, occupation, birthplace, homepage
+country, birthplace, restingplace, genre, deathplace
+country, birthplace, description, homepage, height
+starring-inv, country, birthdate, birthyear, birthplace, description
+starring-inv, country, recordlabel, genre, description, voicetype
+country, nationality, ethnicity, stateoforigin, description
+country, occupation, activeyearsstartyear, genre, description, activeyearsendyear
+birthyear, spouse-inv, spouse
+country, occupation, activeyearsstartyear, genre, instrument, activeyearsendyear
+country, award, birthyear, birthplace, genre
+deathyear, birthyear, nationality, birthplace, description, deathplace
+starring-inv, country, birthplace, bandmember-inv, description, associatedact
+starring-inv, country, occupation, birthyear, birthplace, activeyearsstartyear, recordlabel, description
+birthyear, birthplace, ethnicity, description
+starring-inv, country, occupation, birthplace, recordlabel, bandmember-inv, genre, associatedact
+starring-inv, country, influenced, genre, description, voicetype
+starring-inv, influenced-inv, type-inv, country
+country, occupation, deathyear, birthplace, description, deathplace, activeyearsendyear
+country, genre, voicetype, activeyearsendyear
+starring-inv, country, birthplace, description, deathplace, activeyearsendyear
+starring-inv, country, occupation, birthplace, presenter-inv
+starring-inv, country, artist-inv, occupation, birthplace, genre
+country, occupation, birthyear, genre, deathplace
+starring-inv, country, birthplace, genre, description, voicetype
+occupation, deathyear, deathdate
+starring-inv, country, birthplace, child
+starring-inv, country, rdf-schema#seealso, occupation, birthplace, activeyearsstartyear, recordlabel, genre, description, instrument, associatedact, currentmember-inv
+occupation, deathyear, birthyear, birthplace, description, deathplace
+portrayer-inv, country, activeyearsstartyear
+country, award, occupation, birthplace, activeyearsstartyear, recordlabel, genre, instrument
+country, education, description
+artist-inv, musicalband-inv, description, musicalartist-inv
+occupation, deathyear, activeyearsstartyear, description
+starring-inv, country, director-inv, award, birthplace
+starring-inv, country, artist-inv, occupation, birthplace, endingtheme-inv
+occupation, birthyear, field
+country, occupation, nationality, birthplace, stateoforigin, description, deathplace
+starring-inv, country, occupation, showjudge-inv
+deathyear, nationality, birthplace, deathplace, activeyearsendyear
+starring-inv, country, showjudge-inv, genre
+starring-inv, portrayer-inv, description
+starring-inv, birthyear, height
+country, endingtheme-inv, alias
+country, award, occupation, birthyear, birthplace
+country, birthplace, showjudge-inv, genre
+starring-inv, portrayer-inv, country, recordlabel
+starring-inv, country, award, occupation, birthplace, writer-inv, producer-inv
+starring-inv, country, occupation, narrator-inv
+country, birthyear, bandmember-inv, genre
+country, birthplace, influencedby
+birthyear, nationality, birthplace, activeyearsstartyear, description, deathplace
+starring-inv, country, birthplace, activeyearsstartyear, recordlabel, genre, pastmember-inv, associatedact
+starring-inv, country, occupation, birthplace, partner-inv
+occupation, height
+country, deathyear, birthyear, birthplace, deathplace
+country, occupation, recordlabel, genre, description, voicetype
+nationality, name

@@ -1,0 +1,410 @@
+db:occupation-inv, db:almamater-inv, db:affiliation, db:knownfor-inv
+db:nick, db:mascot, db:athletics, db:country, db:affiliation, db:officialschoolcolour
+db:athletics, db:affiliation, db:type, db:state, db:campus, db:rdf-schema#seealso, db:education-inv
+db:nick, db:mascot, db:chairman, db:affiliation, db:motto, db:type, db:campus
+db:team-inv, db:almamater-inv, db:campus, db:managerclub-inv
+db:affiliation, db:chancellor, db:employer-inv, db:type
+db:athletics, db:country, db:type, db:state, db:campus, db:managerclub-inv
+db:athletics, db:country, db:affiliation, db:numberofpostgraduatestudents
+db:dean, db:president, db:country
+db:athletics, db:team-inv, db:affiliation, db:campus, db:coachedteam-inv
+db:college-inv, db:athletics, db:country, db:type, db:state, db:coachedteam-inv
+db:almamater-inv, db:affiliation, db:type, db:tenant-inv, db:state, db:city
+db:country, db:motto, db:officialschoolcolour, db:education-inv
+db:foundingdate, db:name, db:campus, db:homepage, db:city
+db:country, db:type, db:state, db:city, db:owl#differentfrom
+db:country, db:affiliation, db:motto, db:province, db:type, db:campus, db:homepage, db:city
+db:sport, db:country, db:affiliation, db:motto, db:type
+db:athletics, db:state, db:officialschoolcolour, db:rdf-schema#seealso
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:board-inv
+db:team-inv, db:country, db:motto, db:state, db:coachedteam-inv, db:city
+db:mascot, db:country, db:coachedteam-inv
+db:athletics, db:almamater-inv, db:country, db:state, db:education-inv, db:city, db:owl#differentfrom
+db:country, db:affiliation, db:motto, db:chancellor, db:type, db:officialschoolcolour, db:endowment, db:homepage, db:city
+db:athletics, db:country, db:affiliation, db:academicadvisor-inv
+db:mascot, db:country, db:affiliation, db:motto, db:type, db:name, db:officialschoolcolour, db:homepage
+db:almamater-inv, db:affiliation, db:type, db:parentcompany-inv
+db:college-inv, db:developer-inv, db:athletics, db:almamater-inv, db:country, db:affiliation, db:institution-inv, db:type, db:coachedteam-inv, db:education-inv
+db:athletics, db:type, db:staff
+db:nick, db:athletics, db:affiliation, db:managerclub-inv
+db:athletics, db:affiliation, db:institution-inv, db:type, db:campus, db:coachedteam-inv
+db:athletics, db:almamater-inv, db:affiliation, db:motto, db:employer-inv, db:type, db:state
+db:president, db:nick, db:country, db:motto, db:type, db:state, db:officialschoolcolour, db:campus, db:numberofpostgraduatestudents, db:numberofundergraduatestudents, db:numberofstudents
+db:country, db:type, db:affiliation-inv, db:name, db:campus, db:city
+db:athletics, db:team-inv, db:almamater-inv, db:country, db:affiliation, db:institution-inv, db:type, db:coachedteam-inv, db:education-inv
+db:head, db:affiliation, db:training-inv
+db:athletics, db:country, db:affiliation, db:institution-inv, db:type, db:state, db:campus
+db:sport, db:affiliation, db:type, db:officialschoolcolour
+db:country, db:chancellor, db:type, db:state, db:vicechancellor
+db:almamater-inv, db:affiliation, db:motto, db:type, db:managerclub-inv
+db:team-inv, db:country, db:type, db:state, db:managerclub-inv
+db:athletics, db:team-inv, db:country, db:affiliation, db:type, db:state, db:campus
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:training-inv, db:employer-inv, db:type, db:campus, db:university-inv, db:education-inv
+db:country, db:type, db:numberofundergraduatestudents, db:coachedteam-inv
+db:athletics, db:bandmember-inv, db:country, db:affiliation, db:type, db:state, db:rdf-schema#seealso, db:education-inv
+db:athletics, db:almamater-inv, db:affiliation, db:motto, db:type, db:state, db:award-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:employer-inv, db:award-inv
+db:motto, db:director, db:type, db:name, db:state, db:city
+db:almamater-inv, db:country, db:affiliation, db:campus, db:university-inv, db:city, db:owl#differentfrom
+db:president, db:mascot, db:athletics, db:affiliation, db:type, db:name, db:state, db:campus
+db:almamater-inv, db:country, db:affiliation, db:type, db:officialschoolcolour, db:campus
+db:developer-inv, db:country, db:state, db:city
+db:almamater-inv, db:country, db:affiliation, db:province, db:chancellor, db:type, db:campus, db:city
+db:school-inv, db:athletics, db:country, db:affiliation, db:type, db:campus, db:coachedteam-inv
+db:training-inv, db:state, db:field-inv
+db:numberofdoctoralstudents, db:country, db:state, db:city
+db:formerteam-inv, db:athletics, db:affiliation, db:campus
+db:nick, db:affiliation, db:coachedteam-inv
+db:school-inv, db:athletics, db:almamater-inv, db:affiliation, db:type, db:campus, db:coachedteam-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:institution-inv, db:employer-inv, db:doctoralstudent-inv, db:type, db:coachedteam-inv, db:education-inv
+db:college-inv, db:athletics, db:almamater-inv, db:type, db:managerclub-inv, db:education-inv
+db:athletics, db:institution-inv, db:owl#differentfrom
+db:associatedmusicalartist-inv, db:associatedband-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:state, db:campus, db:coachedteam-inv
+db:country, db:province, db:closed, db:type, db:city
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:employer-inv, db:type, db:state, db:coachedteam-inv, db:education-inv
+db:athletics, db:almamater-inv, db:training-inv, db:state, db:coachedteam-inv
+db:language, db:country, db:foundingyear
+db:rdf-schema#seealso-inv, db:almamater-inv, db:training-inv, db:employer-inv, db:education-inv
+db:athletics, db:state, db:owner-inv
+db:chairman, db:country, db:type, db:staff, db:facultysize, db:state, db:city
+db:president, db:country, db:employer-inv, db:type, db:state, db:numberofstudents
+db:foundedby-inv, db:almamater-inv, db:training-inv
+db:college-inv, db:affiliation, db:type, db:state, db:campus
+db:college-inv, db:almamater-inv, db:type, db:state, db:campus
+db:athletics, db:almamater-inv, db:affiliation, db:type, db:officialschoolcolour, db:education-inv
+db:almamater-inv, db:affiliation, db:chancellor, db:type, db:state, db:campus, db:city
+db:athletics, db:affiliation, db:motto, db:type, db:endowment
+db:sport, db:almamater-inv, db:country, db:affiliation, db:type
+db:college-inv, db:country, db:type, db:state, db:campus
+db:country, db:affiliation, db:motto, db:type, db:staff, db:facultysize, db:state, db:numberofpostgraduatestudents, db:numberofundergraduatestudents
+db:country, db:affiliation, db:province, db:chancellor, db:type, db:numberofundergraduatestudents
+db:athletics, db:team-inv, db:almamater-inv, db:country, db:state, db:education-inv
+db:country, db:training-inv, db:type, db:homepage, db:city
+db:significantproject-inv, db:athletics, db:country, db:type, db:state, db:coachedteam-inv
+db:country, db:state, db:owl#differentfrom-inv, db:city
+db:president, db:athletics, db:country, db:affiliation, db:campus
+db:athletics, db:country, db:type, db:state, db:coachedteam-inv, db:city
+db:occupation-inv, db:athletics, db:almamater-inv, db:country, db:affiliation, db:training-inv, db:employer-inv, db:type, db:coachedteam-inv, db:education-inv
+db:athletics, db:country, db:affiliation, db:province, db:officialschoolcolour
+db:almamater-inv, db:state, db:campus, db:board-inv
+db:country, db:affiliation, db:type, db:state, db:campus, db:numberofpostgraduatestudents, db:city
+db:almamater-inv, db:country, db:affiliation, db:homepage, db:education-inv, db:city
+db:almamater-inv, db:country, db:chancellor, db:state, db:city
+db:college-inv, db:country, db:numberofstudents
+db:country, db:officialschoolcolour, db:campus, db:coachedteam-inv
+db:college-inv, db:foundingdate, db:athletics, db:country, db:state
+db:operator-inv
+db:athletics, db:country, db:type, db:knownfor-inv
+db:chairman, db:country, db:affiliation
+db:almamater-inv, db:affiliation, db:type, db:campus, db:award-inv
+db:mascot, db:country, db:affiliation, db:motto, db:province, db:chancellor, db:type, db:officialschoolcolour, db:vicechancellor
+db:president, db:country, db:affiliation, db:type, db:campus
+db:college-inv, db:sport, db:almamater-inv, db:country, db:affiliation, db:campus, db:city
+db:country, db:type, db:rdf-schema#seealso, db:university-inv
+db:almamater-inv, db:type, db:state, db:city, db:owl#differentfrom
+db:athletics, db:bandmember-inv, db:country, db:affiliation, db:type, db:campus
+db:almamater-inv, db:country, db:affiliation, db:motto, db:chancellor, db:type, db:university-inv, db:city
+db:head, db:affiliation, db:employer-inv, db:type
+db:division-inv, db:type
+db:sport, db:country, db:affiliation, db:state, db:campus, db:city
+db:school-inv, db:athletics, db:almamater-inv, db:country, db:affiliation, db:coachedteam-inv
+db:foundingdate, db:country, db:motto, db:type, db:name, db:state, db:homepage, db:city
+db:athletics, db:almamater-inv, db:country, db:type, db:state, db:education-inv, db:city
+db:mascot, db:affiliation, db:motto, db:type, db:facultysize, db:officialschoolcolour, db:city
+db:athletics, db:affiliation, db:type, db:state, db:publisher-inv
+db:athletics, db:almamater-inv, db:country, db:motto, db:type, db:coachedteam-inv
+db:sport, db:affiliation, db:type, db:city
+db:country, db:state, db:city, db:award-inv
+db:athletics, db:country, db:affiliation, db:province, db:campus, db:city
+db:nick, db:athletics, db:country, db:training-inv
+db:almamater-inv, db:country, db:affiliation, db:motto, db:institution-inv, db:type, db:state, db:campus, db:education-inv, db:city
+db:numberofdoctoralstudents, db:type, db:numberofpostgraduatestudents, db:numberofstudents
+db:numberofdoctoralstudents, db:country, db:type, db:campus
+db:athletics, db:almamater-inv, db:training-inv, db:institution-inv, db:employer-inv, db:type, db:campus, db:education-inv, db:city
+db:athletics, db:country, db:affiliation, db:type, db:state, db:officialschoolcolour
+db:foundedby-inv, db:almamater-inv, db:coachedteam-inv, db:education-inv
+db:athletics, db:team-inv, db:almamater-inv, db:state, db:city
+db:almamater-inv, db:country, db:training-inv, db:type, db:state, db:campus, db:education-inv
+db:country, db:affiliation, db:motto, db:type, db:state, db:campus, db:numberofundergraduatestudents
+db:almamater-inv, db:country, db:affiliation, db:institution-inv, db:type, db:university-inv
+db:college-inv, db:athletics, db:almamater-inv, db:affiliation, db:education-inv, db:city
+db:dean, db:country, db:type, db:campus, db:city
+db:principal, db:country, db:motto, db:type, db:state, db:campus, db:city
+db:athletics, db:almamater-inv, db:country, db:type, db:state, db:campus, db:coachedteam-inv, db:education-inv
+db:athletics, db:country, db:campus, db:numberofpostgraduatestudents
+db:almamater-inv, db:affiliation, db:type, db:affiliation-inv, db:campus, db:rdf-schema#seealso, db:university-inv
+db:occupation-inv, db:almamater-inv, db:type, db:state, db:campus, db:city
+db:athletics, db:affiliation, db:type, db:state, db:campus, db:managerclub-inv
+db:country, db:affiliation, db:motto, db:type, db:coachedteam-inv
+db:athletics, db:country, db:type, db:state, db:managerclub-inv, db:coachedteam-inv
+db:nick, db:athletics, db:affiliation, db:type, db:officialschoolcolour
+db:almamater-inv, db:tenant-inv, db:coachedteam-inv
+db:parentorganisation-inv, db:campus
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:motto, db:type, db:state, db:campus, db:education-inv
+db:athletics, db:country, db:affiliation, db:motto, db:type, db:facultysize, db:officialschoolcolour, db:campus
+db:head, db:almamater-inv, db:country, db:type, db:award-inv
+db:bandmember-inv, db:country, db:state, db:campus
+db:athletics, db:country, db:affiliation, db:type, db:state, db:managerclub-inv, db:city
+db:governingbody, db:architecturalstyle
+db:head, db:sport, db:country, db:affiliation, db:motto, db:name, db:state, db:city
+db:sport, db:athletics, db:country, db:motto, db:type, db:state, db:campus
+db:athletics, db:almamater-inv, db:country, db:managerclub-inv, db:coachedteam-inv, db:education-inv
+db:college-inv, db:country, db:training-inv, db:state, db:board-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:state, db:education-inv, db:city
+db:athletics, db:country, db:state, db:campus, db:managerclub-inv, db:coachedteam-inv
+db:location, db:governingbody
+db:head, db:almamater-inv, db:country, db:affiliation, db:motto, db:type
+db:athletics, db:almamater-inv, db:employer-inv, db:type, db:award-inv
+db:college-inv, db:country, db:affiliation, db:type, db:state
+db:country, db:affiliation, db:state, db:campus, db:numberofstudents
+db:location-inv
+db:almamater-inv, db:country, db:name, db:state, db:officialschoolcolour, db:city
+db:athletics, db:almamater-inv, db:tenant-inv, db:city
+db:college-inv, db:athletics, db:foundedby-inv, db:team-inv, db:almamater-inv, db:type, db:state, db:education-inv
+db:country, db:affiliation, db:type, db:staff, db:facultysize, db:state, db:numberofpostgraduatestudents, db:numberofundergraduatestudents, db:city
+db:mascot, db:country, db:type, db:staff
+db:almamater-inv, db:broadcastnetwork-inv
+db:country, db:affiliation, db:training-inv, db:type, db:affiliation-inv, db:education-inv
+db:college-inv, db:athletics, db:country, db:affiliation, db:state, db:officialschoolcolour
+db:formerteam-inv, db:athletics, db:type
+db:sport, db:campus, db:numberofstudents
+db:college-inv, db:state, db:owner-inv
+db:occupation-inv, db:athletics, db:almamater-inv, db:affiliation, db:type, db:state, db:rdf-schema#seealso
+db:college-inv, db:athletics, db:almamater-inv, db:country, db:affiliation, db:state, db:coachedteam-inv, db:city
+db:country, db:affiliation, db:type, db:staff, db:facultysize, db:state, db:officialschoolcolour, db:campus, db:city
+db:country, db:affiliation, db:type, db:state, db:city, db:numberofstudents
+db:athletics, db:country, db:affiliation, db:campus, db:knownfor-inv
+db:almamater-inv, db:rdf-schema#seealso, db:university-inv, db:relative-inv
+db:athletics, db:affiliation, db:type, db:state, db:managerclub-inv, db:coachedteam-inv
+db:college-inv, db:occupation-inv, db:almamater-inv, db:state
+db:state, db:campus, db:award-inv
+db:almamater-inv, db:country, db:training-inv, db:type, db:state, db:campus, db:city
+db:president, db:country, db:affiliation, db:motto, db:type, db:state, db:endowment, db:city
+db:college-inv, db:type, db:state, db:city
+db:mascot, db:affiliation, db:motto, db:province, db:chancellor, db:type, db:officialschoolcolour, db:numberofstudents
+db:foundingdate, db:affiliation, db:type
+db:formerteam-inv, db:athletics, db:country
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:field-inv
+db:school-inv, db:team-inv, db:almamater-inv, db:coachedteam-inv, db:education-inv
+db:affiliation, db:homepage, db:award-inv
+db:athletics, db:almamater-inv, db:country, db:training-inv, db:institution-inv, db:campus, db:coachedteam-inv
+db:athletics, db:country, db:affiliation, db:publisher-inv
+db:nick, db:sport, db:athletics, db:affiliation, db:type, db:state
+db:dean-inv, db:award-inv
+db:athletics, db:country, db:type, db:officialschoolcolour, db:coachedteam-inv
+db:staff, db:homepage
+db:rdf-schema#seealso, db:coachedteam-inv
+db:mascot, db:country, db:affiliation, db:motto, db:chancellor, db:type, db:state
+db:almamater-inv, db:institution-inv, db:state, db:city, db:publisher-inv
+db:occupation-inv, db:athletics, db:country, db:affiliation, db:type, db:state
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:institution-inv, db:type, db:award-inv
+db:head-inv, db:almamater-inv
+db:affiliation, db:rector
+db:country, db:owner-inv
+db:occupation-inv, db:athletics, db:team-inv, db:affiliation, db:motto, db:type
+db:country, db:type, db:formername, db:city
+db:country, db:affiliation, db:motto, db:chancellor, db:type, db:name, db:state, db:campus, db:homepage, db:city
+db:country, db:affiliation, db:motto, db:province, db:chancellor, db:type, db:officialschoolcolour, db:campus, db:city, db:numberofstudents
+db:occupation-inv, db:almamater-inv, db:affiliation, db:chancellor, db:type
+db:country, db:type, db:state, db:campus, db:managerclub-inv, db:city
+db:country, db:affiliation, db:training-inv, db:state, db:campus, db:city
+db:province, db:facultysize, db:city
+db:school-inv, db:athletics, db:country, db:state, db:campus
+db:affiliation, db:homepage, db:projectparticipant-inv
+db:almamater-inv, db:country, db:employer-inv, db:state, db:education-inv, db:city
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:coachedteam-inv, db:award-inv
+db:country, db:affiliation, db:motto, db:type, db:state, db:managerclub-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:state, db:award-inv
+db:athletics, db:country, db:affiliation, db:type, db:education-inv, db:city
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:training-inv, db:type, db:state, db:education-inv
+db:athletics, db:country, db:state, db:campus, db:education-inv, db:city
+db:almamater-inv, db:country, db:philosophicalschool-inv, db:campus
+db:motto, db:type, db:state, db:owner-inv
+db:college-inv, db:athletics, db:almamater-inv, db:affiliation, db:type, db:state, db:education-inv
+db:athletics, db:almamater-inv, db:affiliation, db:type, db:state, db:campus, db:coachedteam-inv, db:education-inv
+db:dean, db:country, db:state
+db:almamater-inv, db:affiliation, db:motto, db:type, db:university-inv, db:education-inv
+db:country, db:state, db:campus, db:city, db:owl#differentfrom
+db:nick, db:sport, db:country, db:type, db:campus
+db:country, db:type, db:staff, db:campus, db:numberofpostgraduatestudents
+db:country, db:affiliation, db:type, db:state, db:campus, db:rdf-schema#seealso
+db:occupation-inv, db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:campus
+db:sport, db:type, db:numberofstudents
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:rdf-schema#seealso
+db:almamater-inv, db:affiliation, db:religion-inv, db:type
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:institution-inv, db:employer-inv, db:campus, db:education-inv
+db:affiliation, db:chancellor, db:type, db:education-inv
+db:affiliation-inv, db:name, db:state, db:campus, db:education-inv, db:city
+db:country, db:owl#differentfrom-inv, db:campus
+db:college-inv, db:occupation-inv, db:almamater-inv, db:philosophicalschool-inv, db:institution-inv, db:coachedteam-inv, db:education-inv
+db:athletics, db:almamater-inv, db:training-inv, db:type, db:notablestudent-inv, db:education-inv
+db:athletics, db:country, db:affiliation, db:officialschoolcolour, db:coachedteam-inv, db:education-inv
+db:almamater-inv, db:country, db:state, db:campus, db:rdf-schema#seealso, db:education-inv, db:city
+db:almamater-inv, db:formerhighschool-inv
+db:foundingdate, db:type, db:officialschoolcolour, db:vicechancellor, db:homepage, db:city
+db:almamater-inv, db:country, db:affiliation, db:type, db:academicadvisor-inv
+db:athletics, db:almamater-inv, db:country, db:training-inv, db:state, db:campus, db:city
+db:almamater-inv, db:country, db:affiliation, db:motto, db:employer-inv, db:type
+db:language, db:country, db:type
+db:motto, db:chancellor, db:type, db:affiliation-inv, db:campus
+db:occupation-inv, db:training-inv, db:campus, db:city
+db:athletics, db:bandmember-inv, db:almamater-inv, db:country, db:affiliation, db:type, db:coachedteam-inv, db:education-inv
+db:college-inv, db:athletics, db:almamater-inv, db:country, db:affiliation, db:state, db:campus
+db:almamater-inv, db:country, db:training-inv, db:type, db:campus, db:education-inv, db:city
+db:college-inv, db:athletics, db:facultysize
+db:mascot, db:affiliation, db:motto, db:province, db:chancellor, db:type, db:officialschoolcolour, db:homepage, db:city
+db:owningcompany-inv, db:almamater-inv
+db:president, db:athletics, db:country, db:affiliation, db:type
+db:athletics, db:country, db:affiliation, db:type, db:campus, db:managerclub-inv
+db:athletics, db:almamater-inv, db:country, db:training-inv, db:type, db:campus, db:rdf-schema#seealso, db:education-inv
+db:country, db:motto, db:training-inv, db:type, db:state, db:campus, db:city
+db:mascot, db:country, db:type, db:name, db:state, db:officialschoolcolour, db:campus, db:endowment, db:numberofundergraduatestudents, db:homepage, db:city, db:president, db:nick, db:athletics, db:motto, db:facultysize, db:numberofstudents
+db:almamater-inv, db:country, db:affiliation, db:chancellor, db:type, db:state, db:campus
+db:athletics, db:country, db:affiliation, db:type, db:numberofundergraduatestudents
+db:college-inv, db:almamater-inv, db:training-inv, db:coachedteam-inv, db:education-inv
+db:nick, db:athletics, db:affiliation, db:officialschoolcolour, db:campus
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:institution-inv, db:type, db:state, db:education-inv
+db:country, db:affiliation, db:province, db:state, db:homepage, db:city
+db:affiliation-inv, db:owl#differentfrom
+db:developer-inv, db:affiliation, db:homepage
+db:almamater-inv, db:type, db:state, db:coachedteam-inv, db:owl#differentfrom
+db:athletics, db:almamater-inv, db:affiliation, db:institution-inv, db:employer-inv, db:type, db:university-inv, db:education-inv
+db:country, db:affiliation, db:province, db:state, db:campus
+db:almamater-inv, db:affiliation, db:type, db:vicechancellor
+db:nick, db:country, db:affiliation, db:province, db:city
+db:country, db:affiliation, db:province, db:type, db:rdf-schema#seealso, db:city
+db:college-inv, db:athletics, db:almamater-inv, db:affiliation, db:type, db:campus, db:coachedteam-inv
+db:almamater-inv, db:country, db:affiliation, db:type, db:affiliation-inv, db:state, db:campus, db:city
+db:numberofdoctoralstudents, db:country, db:numberofpostgraduatestudents
+db:sport, db:numberofpostgraduatestudents
+db:affiliation, db:province, db:type, db:university-inv
+db:country, db:affiliation, db:institution-inv, db:chancellor, db:type, db:campus, db:city
+db:motto, db:type, db:name, db:vicechancellor
+db:athletics, db:affiliation, db:type, db:officialschoolcolour, db:coachedteam-inv, db:education-inv
+db:formerteam-inv, db:country, db:type
+db:country, db:affiliation, db:province, db:type, db:numberofpostgraduatestudents, db:city
+db:college-inv, db:athletics, db:almamater-inv, db:country, db:affiliation, db:training-inv, db:institution-inv, db:type, db:education-inv
+db:occupation-inv, db:institution-inv, db:type
+db:president, db:country, db:affiliation, db:chancellor, db:type, db:state, db:city
+db:country, db:affiliation, db:province, db:numberofpostgraduatestudents, db:numberofundergraduatestudents, db:city
+db:athletics, db:almamater-inv, db:country, db:campus, db:education-inv, db:award-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:campus, db:award-inv
+db:athletics, db:country, db:type, db:officialschoolcolour, db:managerclub-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:officialschoolcolour
+db:type, db:affiliation-inv, db:homepage, db:city
+db:athletics, db:team-inv, db:almamater-inv, db:institution-inv, db:employer-inv, db:type, db:campus, db:education-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:training-inv, db:institution-inv, db:employer-inv, db:type, db:education-inv
+db:school-inv, db:athletics, db:type, db:coachedteam-inv, db:education-inv
+db:nick, db:sport, db:athletics, db:almamater-inv, db:affiliation, db:type, db:education-inv
+db:almamater-inv, db:country, db:motto, db:type, db:state, db:campus, db:knownfor-inv, db:city
+db:sport, db:country, db:numberofstudents
+db:country, db:type, db:foundingyear
+db:athletics, db:country, db:affiliation, db:motto, db:province, db:type, db:name, db:campus, db:homepage
+db:team-inv, db:country, db:province, db:type
+db:college-inv, db:athletics, db:country, db:affiliation, db:type, db:campus
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:profession-inv, db:state, db:coachedteam-inv, db:education-inv
+db:athletics, db:almamater-inv, db:affiliation, db:motto, db:training-inv, db:type, db:state, db:campus, db:education-inv
+db:nick, db:affiliation, db:type, db:state, db:officialschoolcolour
+db:affiliation, db:type, db:city, db:award-inv
+db:almamater-inv, db:country, db:institution-inv, db:employer-inv, db:type, db:state
+db:country, db:motto, db:chancellor, db:type, db:formername, db:officialschoolcolour
+db:athletics, db:champion-inv, db:state
+db:country, db:affiliation, db:motto, db:province, db:chancellor, db:type, db:facultysize, db:officialschoolcolour, db:campus
+db:governingbody, db:yearofconstruction
+db:almamater-inv, db:country, db:facultysize, db:campus
+db:almamater-inv, db:country, db:employer-inv, db:type, db:state, db:city
+db:country, db:province, db:endowment, db:city
+db:country, db:affiliation, db:motto, db:chancellor, db:type, db:name, db:state, db:numberofpostgraduatestudents, db:numberofundergraduatestudents, db:homepage, db:numberofstudents
+db:sport, db:country, db:officialschoolcolour
+db:mascot, db:country, db:affiliation, db:type, db:name, db:state, db:campus, db:homepage, db:city, db:nick, db:athletics, db:almamater-inv, db:motto
+db:country, db:affiliation, db:province, db:type, db:numberofundergraduatestudents, db:city
+db:college-inv, db:athletics, db:almamater-inv, db:affiliation, db:tenant-inv, db:state, db:education-inv
+db:country, db:chancellor, db:type, db:campus, db:numberofpostgraduatestudents
+db:college-inv, db:nick, db:athletics, db:country, db:affiliation
+db:athletics, db:country, db:affiliation, db:type, db:endowment
+db:affiliation, db:type, db:projectparticipant-inv
+db:athletics, db:almamater-inv, db:affiliation, db:institution-inv, db:type, db:state, db:coachedteam-inv, db:education-inv, db:city
+db:athletics, db:bandmember-inv, db:almamater-inv, db:country, db:affiliation, db:institution-inv, db:type, db:education-inv
+db:athletics, db:country, db:affiliation, db:employer-inv, db:type, db:state, db:campus
+db:country, db:affiliation-inv, db:homepage, db:education-inv, db:city
+db:sport, db:affiliation, db:type, db:coachedteam-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:state, db:managerclub-inv
+db:athletics, db:almamater-inv, db:country, db:employer-inv, db:state, db:city
+db:school-inv, db:athletics, db:country, db:affiliation, db:state
+db:significantproject-inv, db:country, db:state, db:city
+db:almamater-inv, db:affiliation, db:employer-inv, db:state, db:campus
+db:numberofdoctoralstudents, db:country, db:affiliation, db:state
+db:country, db:affiliation, db:state, db:campus, db:numberofpostgraduatestudents, db:numberofundergraduatestudents, db:city
+db:athletics, db:almamater-inv, db:institution-inv, db:officialschoolcolour
+db:country, db:type, db:staff, db:numberofstudents
+db:developer-inv, db:almamater-inv, db:training-inv, db:education-inv
+db:athletics, db:affiliation, db:type, db:numberofstudents
+db:sport, db:country, db:affiliation, db:type, db:state, db:campus
+db:college-inv, db:athletics, db:almamater-inv, db:affiliation, db:motto, db:type, db:state
+db:school-inv, db:athletics, db:almamater-inv, db:type, db:state
+db:rdf-schema#seealso-inv, db:country, db:state, db:city
+db:athletics, db:almamater-inv, db:education-inv, db:city, db:publisher-inv
+db:nick, db:team-inv, db:country, db:affiliation, db:motto, db:type
+db:developer-inv, db:type, db:campus
+db:athletics, db:almamater-inv, db:affiliation, db:motto, db:type, db:coachedteam-inv, db:education-inv
+db:type, db:campus, db:board-inv
+db:country, db:facultysize, db:state, db:numberofpostgraduatestudents, db:city, db:numberofstudents
+db:sport, db:country, db:numberofundergraduatestudents
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:state, db:campus, db:rdf-schema#seealso
+db:numberofdoctoralstudents, db:sport
+db:training-inv, db:type, db:award-inv
+db:athletics, db:almamater-inv, db:country, db:affiliation, db:type, db:designer-inv
+db:school-inv, db:athletics, db:affiliation, db:employer-inv, db:type, db:coachedteam-inv
+db:occupation-inv, db:chairman, db:country, db:type
+db:affiliation-inv, db:managerclub-inv
+db:formerteam-inv, db:almamater-inv, db:state
+db:country, db:affiliation, db:province, db:chancellor, db:numberofpostgraduatestudents, db:city
+db:state, db:campus-inv
+db:occupation-inv, db:athletics, db:almamater-inv, db:country, db:affiliation, db:training-inv, db:state, db:campus
+db:status
+db:school-inv, db:athletics, db:almamater-inv, db:affiliation, db:training-inv, db:type, db:coachedteam-inv
+db:dean, db:type, db:state
+db:athletics, db:almamater-inv, db:affiliation, db:institution-inv, db:type, db:affiliation-inv, db:state, db:author-inv, db:education-inv, db:city
+db:sport, db:country, db:facultysize
+db:added
+db:dean, db:country, db:affiliation, db:type, db:campus
+db:president, db:almamater-inv, db:country, db:campus, db:education-inv, db:city
+db:almamater-inv, db:country, db:affiliation, db:training-inv, db:type, db:state, db:campus
+db:nick, db:almamater-inv, db:country, db:type, db:coachedteam-inv
+db:chairman, db:country, db:state, db:campus, db:city
+db:country, db:state, db:vicechancellor, db:campus
+db:sport, db:campus, db:numberofundergraduatestudents
+db:almamater-inv, db:training-inv, db:award-inv
+db:affiliation, db:motto, db:type, db:state, db:campus, db:rdf-schema#seealso
+db:country, db:formername, db:state, db:campus, db:city
+db:athletics, db:country, db:motto, db:type, db:state, db:coachedteam-inv
+db:athletics, db:training-inv, db:officialschoolcolour, db:coachedteam-inv
+db:foundingdate, db:country, db:affiliation, db:motto, db:name, db:campus
+db:country, db:affiliation, db:type, db:knownfor-inv
+db:college-inv, db:athletics, db:almamater-inv, db:affiliation, db:state, db:coachedteam-inv, db:education-inv
+db:head, db:country, db:affiliation, db:motto, db:type, db:state, db:officialschoolcolour, db:campus, db:city
+db:province, db:education-inv
+db:almamater-inv, db:country, db:affiliation, db:type, db:state, db:campus, db:coachedteam-inv, db:education-inv
+db:team-inv, db:almamater-inv, db:tenant-inv, db:managerclub-inv
+db:keyperson-inv, db:almamater-inv, db:country
+db:country, db:training-inv, db:field-inv, db:education-inv
+db:rector, db:city
+db:developer-inv, db:athletics, db:almamater-inv, db:affiliation, db:employer-inv, db:type, db:education-inv
+db:team-inv, db:type, db:state, db:coachedteam-inv, db:city
+db:sport, db:almamater-inv, db:affiliation, db:province, db:type
+db:service-inv
+db:almamater-inv, db:country, db:province, db:type, db:campus, db:city, db:numberofstudents
+db:country, db:director, db:state, db:city
+db:head, db:almamater-inv, db:country, db:type, db:education-inv
+db:motto, db:type, db:other
+db:school-inv, db:affiliation, db:type, db:state, db:city
+db:athletics, db:almamater-inv, db:affiliation, db:managerclub-inv, db:education-inv
+db:affiliation, db:employer-inv, db:type, db:campus, db:award-inv
+db:country, db:motto, db:state, db:officialschoolcolour, db:endowment, db:numberofpostgraduatestudents, db:numberofundergraduatestudents, db:city, db:numberofstudents
+db:employer-inv, db:affiliation-inv
+db:affiliation, db:training-inv, db:campus, db:field-inv, db:education-inv, db:city
+db:rdf-schema#seealso-inv, db:almamater-inv, db:state, db:education-inv, db:city
+db:affiliation, db:formername, db:name
+db:sport, db:type, db:officialschoolcolour, db:campus
+db:athletics, db:bandmember-inv, db:almamater-inv, db:country, db:affiliation, db:type, db:managerclub-inv, db:coachedteam-inv

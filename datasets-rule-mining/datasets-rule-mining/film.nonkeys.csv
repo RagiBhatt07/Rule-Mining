@@ -1,0 +1,233 @@
+db:writer, db:starring, db:runtime, db:director, db:product-inv, db:producer
+db:basedon, db:musiccomposer, db:distributor, db:starring, db:portrayer-inv, db:cinematography, db:producer
+db:writer, db:musiccomposer, db:distributor, db:starring, db:runtime, db:director, db:lastappearance-inv
+db:writer, db:country, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:director, db:budget, db:producer
+db:name, db:basedon, db:language
+db:distributor, db:starring, db:portrayer-inv, db:runtime, db:producer
+db:country, db:distributor, db:starring, db:runtime, db:director, db:releasedate, db:producer
+db:writer, db:basedon, db:narrator, db:distributor, db:director, db:editing, db:producer
+db:writer, db:country, db:award-inv, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:producer
+db:writer, db:distributor, db:starring, db:voice-inv, db:director, db:producer
+db:name, db:writer, db:distributor, db:cinematography, db:language, db:producer
+db:gross, db:cinematography, db:runtime, db:producer
+db:writer, db:country, db:narrator, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:language, db:producer
+db:country, db:musiccomposer, db:starring, db:director, db:language, db:releasedate
+db:distributor, db:starring, db:cinematography, db:director, db:language, db:budget, db:producer
+db:distributor, db:spouse-inv
+db:format-inv
+db:name, db:musiccomposer, db:distributor, db:cinematography, db:director, db:rdf-schema#seealso, db:budget
+db:name, db:country, db:musiccomposer, db:distributor, db:cinematography, db:director, db:producer
+db:country, db:distributor, db:starring, db:cinematography, db:runtime, db:director, db:language, db:producer
+db:genre, db:runtime, db:artist
+db:writer, db:musiccomposer, db:distributor, db:starring, db:notablework-inv, db:producer
+db:writer, db:country, db:distributor, db:language, db:releasedate
+db:writer, db:starring, db:cinematography, db:notablework-inv, db:director, db:editing, db:producer
+db:basedon-inv, db:distributor, db:starring
+db:writer, db:musiccomposer, db:starring, db:director, db:language, db:budget, db:producer
+db:writer, db:country, db:musiccomposer, db:narrator, db:distributor, db:starring, db:cinematography, db:director, db:language, db:producer
+db:distributor, db:starring, db:notablework-inv, db:director
+db:writer, db:basedon, db:distributor, db:starring, db:notablework-inv, db:budget, db:producer
+db:writer, db:country, db:musiccomposer, db:starring, db:cinematography, db:runtime, db:director, db:editing, db:language, db:producer
+db:writer, db:country, db:basedon, db:distributor, db:starring, db:cinematography, db:notablework-inv, db:rdf-schema#seealso
+db:writer, db:award-inv, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:language, db:producer
+db:writer, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:product-inv, db:producer
+db:writer, db:narrator, db:starring, db:runtime, db:budget, db:producer
+db:name, db:country, db:musiccomposer, db:distributor, db:starring, db:runtime, db:producer
+db:country, db:distributor, db:cinematography, db:runtime, db:editing, db:language
+db:knownfor-inv, db:distributor, db:runtime, db:producer
+db:gross, db:name, db:writer, db:starring, db:cinematography, db:director, db:producer
+db:country, db:starring, db:rdf-schema#seealso, db:language
+db:language, db:location
+db:gross, db:cinematography, db:director, db:releasedate
+db:name, db:writer, db:musiccomposer, db:distributor, db:starring, db:runtime, db:producer
+db:name, db:country, db:runtime, db:language
+db:name, db:writer, db:musiccomposer, db:starring, db:director, db:language
+db:country, db:musiccomposer, db:distributor, db:notablework-inv
+db:writer, db:basedon, db:starring, db:cinematography, db:director, db:editing, db:language, db:producer
+db:subsequentwork-inv, db:distributor, db:starring, db:producer
+db:gross, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:language, db:producer
+db:associatedband-inv, db:associatedmusicalartist-inv, db:starring
+db:writer, db:musiccomposer, db:knownfor-inv, db:distributor, db:starring, db:director, db:language, db:producer
+db:writer, db:distributor, db:starring, db:cinematography, db:runtime, db:director, db:editing, db:budget, db:producer
+db:writer, db:musiccomposer, db:notablework-inv, db:runtime
+db:country, db:award-inv, db:distributor, db:runtime
+db:knownfor-inv, db:distributor, db:starring, db:cinematography, db:director, db:language, db:producer
+db:musiccomposer, db:runtime, db:language, db:releasedate
+db:country, db:owl#differentfrom, db:language
+db:cinematography, db:type-inv
+db:writer, db:musiccomposer, db:starring, db:notablework-inv, db:director, db:editing, db:producer
+db:distributor, db:portrayer-inv, db:runtime, db:director
+db:writer, db:musiccomposer, db:distributor, db:starring, db:director, db:rdf-schema#seealso, db:product-inv, db:producer
+db:subsequentwork-inv, db:lastappearance-inv
+db:writer, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:budget, db:producer
+db:starring, db:language, db:product-inv
+db:name, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:runtime, db:director, db:editing, db:producer
+db:gross, db:writer, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:producer
+db:country, db:distributor, db:starring, db:director, db:language, db:releasedate
+db:related-inv, db:country, db:distributor, db:starring
+db:distributor, db:rdf-schema#seealso, db:language
+db:distributor, db:runtime, db:language, db:budget
+db:writer, db:starring, db:director, db:editing, db:releasedate, db:producer
+db:writer, db:musiccomposer, db:distributor, db:starring, db:director, db:releasedate, db:producer
+db:country, db:musiccomposer, db:distributor, db:starring, db:runtime, db:lastappearance-inv
+db:knownfor-inv, db:starring, db:runtime, db:director, db:language
+db:musiccomposer, db:distributor, db:portrayer-inv, db:director, db:editing, db:producer
+db:writer, db:album-inv, db:musiccomposer, db:cinematography, db:director, db:editing
+db:influenced-inv
+db:name, db:writer, db:musiccomposer, db:previouswork-inv, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:producer
+db:gross, db:writer, db:country, db:starring, db:cinematography, db:director
+db:distributor, db:cinematography, db:notablework-inv, db:director, db:editing
+db:portrayer-inv, db:cinematography, db:runtime
+db:writer, db:country, db:award-inv, db:starring, db:cinematography, db:director, db:editing, db:language, db:producer
+db:location, db:closingfilm, db:openingfilm
+db:country, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:runtime, db:director, db:producer
+db:narrator, db:product-inv
+db:writer, db:country, db:narrator, db:distributor, db:starring, db:runtime, db:director, db:editing, db:language, db:producer
+db:writer, db:distributor, db:starring, db:director, db:language, db:associatedact-inv, db:producer
+db:writer, db:basedon, db:musiccomposer, db:starring, db:director, db:language, db:producer
+db:musiccomposer, db:cinematography, db:notablework-inv, db:director
+db:writer, db:director, db:type-inv, db:producer
+db:genre, db:recordedin, db:artist, db:type, db:producer
+db:writer, db:musiccomposer, db:cinematography, db:director, db:editing, db:language, db:releasedate
+db:writer, db:musiccomposer, db:award-inv, db:cinematography, db:director, db:language
+db:distributor, db:relative-inv, db:producer
+db:gross, db:country, db:musiccomposer
+db:gross, db:country, db:distributor, db:language
+db:name, db:country, db:musiccomposer, db:starring, db:director, db:language
+db:name, db:writer, db:basedon, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:director, db:rdf-schema#seealso, db:editing, db:producer
+db:writer, db:country, db:musiccomposer, db:starring, db:cinematography, db:runtime, db:director, db:editing, db:budget, db:producer
+db:gross, db:distributor, db:editing, db:language
+db:writer, db:basedon, db:musiccomposer, db:distributor, db:starring, db:runtime, db:director, db:producer
+db:name, db:writer, db:distributor, db:starring, db:director, db:language, db:producer
+db:musiccomposer, db:narrator, db:starring, db:rdf-schema#seealso, db:language, db:producer
+db:writer, db:knownfor-inv, db:cinematography, db:director, db:language
+db:writer, db:musiccomposer, db:distributor, db:portrayer-inv, db:budget
+db:name, db:writer, db:country, db:musiccomposer, db:starring, db:language
+db:knownfor-inv, db:starring, db:cinematography, db:director, db:editing, db:language
+db:writer, db:country, db:musiccomposer, db:knownfor-inv, db:runtime, db:director, db:producer
+db:country, db:basedon, db:language
+db:name, db:distributor, db:cinematography, db:director, db:language, db:producer
+db:writer, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:director, db:product-inv, db:producer
+db:writer, db:musiccomposer, db:distributor, db:starring, db:director, db:product-inv, db:budget, db:producer
+db:name, db:homepage, db:location
+db:writer, db:country, db:knownfor-inv, db:cinematography, db:director
+db:writer, db:country, db:starring, db:language, db:budget, db:producer
+db:writer, db:musiccomposer, db:distributor, db:starring, db:director, db:editing, db:lastappearance-inv, db:producer
+db:country, db:knownfor-inv, db:distributor, db:cinematography, db:director, db:editing
+db:writer, db:musiccomposer, db:distributor, db:starring, db:runtime, db:director, db:budget, db:producer
+db:gross, db:country, db:runtime
+db:musiccomposer, db:award-inv, db:distributor, db:starring, db:director, db:editing, db:language, db:producer
+db:name, db:writer, db:country, db:starring, db:cinematography, db:director, db:language, db:producer
+db:country, db:distributor, db:cinematography, db:runtime, db:director, db:editing, db:producer
+db:writer, db:musiccomposer, db:knownfor-inv, db:distributor, db:starring, db:cinematography, db:director, db:budget, db:producer
+db:writer, db:musiccomposer, db:narrator, db:starring, db:director, db:budget, db:producer
+db:musiccomposer, db:distributor, db:starring, db:cinematography, db:director, db:rdf-schema#seealso, db:editing, db:budget, db:producer
+db:writer, db:starring, db:notablework-inv, db:runtime, db:director
+db:runtime, db:budget, db:releasedate
+db:writer, db:musiccomposer, db:award-inv, db:starring, db:language
+db:writer, db:musiccomposer, db:narrator, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:producer
+db:name, db:distributor, db:core#subject-inv, db:director, db:editing, db:producer
+db:writer, db:country, db:musiccomposer, db:award-inv, db:director, db:language
+db:name, db:writer, db:basedon, db:distributor, db:starring, db:runtime, db:director, db:editing
+db:knownfor-inv, db:distributor, db:runtime, db:director
+db:country, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:runtime, db:language
+db:distributor, db:budget, db:releasedate
+db:country, db:runtime, db:language, db:budget
+db:gross, db:cinematography, db:budget
+db:country, db:award-inv, db:distributor, db:starring, db:language
+db:gross, db:musiccomposer, db:distributor, db:runtime, db:editing
+db:knownfor-inv, db:cinematography, db:runtime
+db:writer, db:distributor, db:cinematography, db:director, db:releasedate, db:producer
+db:starring, db:portrayer-inv, db:budget, db:producer
+db:writer, db:country, db:distributor, db:cinematography, db:runtime, db:director, db:language
+db:country, db:basedon, db:producer
+db:name, db:writer, db:musiccomposer, db:starring, db:cinematography, db:director, db:releasedate
+db:writer, db:musiccomposer, db:distributor, db:starring, db:portrayer-inv, db:director, db:producer
+db:country, db:distributor, db:language, db:releasedate, db:producer
+db:writer, db:musiccomposer, db:distributor, db:series-inv, db:starring, db:runtime
+db:country, db:knownfor-inv, db:runtime, db:language
+db:distributor, db:runtime, db:language, db:releasedate
+db:writer, db:musiccomposer, db:cinematography, db:director, db:language, db:budget
+db:country, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:director, db:rdf-schema#seealso, db:editing, db:producer
+db:name, db:starring, db:director, db:language, db:releasedate, db:producer
+db:country, db:musiccomposer, db:distributor, db:starring, db:director, db:language, db:budget, db:producer
+db:writer, db:distributor, db:starring, db:portrayer-inv, db:cinematography, db:producer
+db:basedon, db:starring, db:director, db:budget
+db:writer, db:runtime, db:director, db:editing, db:releasedate, db:producer
+db:gross, db:distributor, db:cinematography, db:director, db:language, db:producer
+db:country, db:distributor, db:runtime, db:budget
+db:writer, db:musiccomposer, db:knownfor-inv, db:starring, db:cinematography, db:director, db:rdf-schema#seealso, db:editing, db:producer
+db:gross, db:distributor, db:starring, db:editing, db:budget, db:producer
+db:portrayer-inv, db:lastappearance-inv, db:producer
+db:name, db:starring, db:owl#differentfrom, db:owl#differentfrom-inv
+db:gross, db:distributor, db:starring, db:runtime, db:director, db:producer
+db:country, db:budget, db:releasedate
+db:writer, db:musiccomposer, db:distributor, db:cinematography, db:director, db:editing, db:product-inv, db:producer
+db:writer, db:country, db:notablework-inv, db:director, db:language, db:producer
+db:musiccomposer, db:runtime, db:director, db:rdf-schema#seealso, db:budget
+db:writer, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:runtime, db:director, db:editing, db:language, db:producer
+db:writer, db:album-inv, db:distributor, db:starring, db:director, db:editing, db:producer
+db:writer, db:award-inv, db:starring, db:cinematography, db:runtime, db:director, db:editing, db:language
+db:name, db:country, db:runtime, db:director
+db:writer, db:musiccomposer, db:runtime, db:director, db:language, db:budget
+db:country, db:musiccomposer, db:series-inv, db:starring, db:language, db:producer
+db:name, db:editing, db:language
+db:distributor, db:cinematography, db:director, db:language, db:releasedate, db:producer
+db:genre, db:recordlabel, db:artist, db:producer
+db:related-inv, db:writer, db:basedon, db:previouswork-inv, db:distributor, db:starring, db:producer
+db:writer, db:musiccomposer, db:distributor, db:notablework-inv, db:director
+db:musiccomposer, db:starring, db:runtime, db:product-inv
+db:writer, db:country, db:musiccomposer, db:narrator, db:distributor, db:starring, db:runtime, db:director, db:language, db:producer
+db:name, db:writer, db:narrator, db:runtime, db:director
+db:country, db:distributor, db:notablework-inv, db:editing, db:budget
+db:writer, db:country, db:knownfor-inv, db:language
+db:writer, db:basedon, db:distributor, db:notablework-inv, db:director, db:budget, db:producer
+db:writer, db:musiccomposer, db:subsequentwork-inv, db:starring, db:director, db:editing, db:producer
+db:genre, db:recordlabel, db:artist, db:type
+db:related-inv, db:name
+db:writer, db:musiccomposer, db:award-inv, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:producer
+db:gross, db:musiccomposer, db:distributor, db:starring, db:budget
+db:writer, db:award-inv, db:knownfor-inv, db:director, db:editing, db:producer
+db:musiccomposer, db:director, db:licensee
+db:basedon, db:musiccomposer, db:distributor, db:director-inv, db:producer
+db:editing, db:language, db:budget
+db:gross, db:runtime, db:budget
+db:writer, db:country, db:musiccomposer, db:distributor, db:starring, db:runtime, db:director, db:editing, db:producer
+db:writer, db:musiccomposer, db:starring, db:director, db:editing, db:product-inv, db:producer
+db:musiccomposer, db:cinematography, db:director, db:releasedate, db:producer
+db:name, db:writer, db:distributor, db:starring, db:runtime, db:director, db:language
+db:gross, db:writer, db:distributor, db:starring, db:director, db:product-inv, db:producer
+db:gross, db:writer, db:distributor, db:starring, db:cinematography, db:language, db:producer
+db:country, db:musiccomposer, db:award-inv, db:cinematography
+db:writer, db:distributor, db:starring, db:owl#differentfrom-inv, db:producer
+db:starring, db:rdf-schema#seealso-inv
+db:musiccomposer, db:knownfor-inv, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:budget, db:producer
+db:country, db:musiccomposer, db:award-inv, db:starring, db:runtime, db:language, db:producer
+db:gross, db:distributor, db:cinematography, db:runtime, db:language
+db:writer, db:country, db:runtime, db:director, db:releasedate, db:producer
+db:writer, db:starring, db:cinematography, db:director, db:editing, db:language, db:releasedate
+db:gross, db:language, db:budget
+db:gross, db:runtime, db:director, db:language
+db:country, db:award-inv, db:cinematography, db:runtime
+db:writer, db:basedon, db:musiccomposer, db:knownfor-inv, db:distributor, db:starring, db:director, db:producer
+db:writer, db:distributor, db:starring, db:notablework-inv, db:runtime
+db:starring-inv
+db:writer, db:country, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:director, db:editing, db:language, db:producer
+db:starring, db:notablework-inv, db:director, db:language
+db:writer, db:distributor, db:notablework-inv, db:runtime, db:producer
+db:narrator, db:cinematography, db:runtime
+db:writer, db:distributor, db:starring, db:runtime, db:director, db:releasedate, db:producer
+db:writer, db:musiccomposer, db:distributor, db:starring, db:cinematography, db:runtime, db:director, db:rdf-schema#seealso, db:producer
+db:writer, db:award-inv, db:distributor, db:starring, db:runtime, db:director, db:producer
+db:name, db:writer, db:lastappearance-inv
+db:related-inv, db:writer, db:musiccomposer, db:director, db:producer
+db:starring, db:runtime, db:language, db:releasedate
+db:country, db:runtime, db:director, db:editing, db:language, db:releasedate
+db:writer, db:distributor, db:director, db:language, db:budget, db:producer
+db:country, db:knownfor-inv, db:starring, db:director, db:language
+db:award-inv, db:location
+db:writer, db:basedon, db:distributor, db:starring, db:cinematography, db:runtime, db:director
+db:cinematography, db:director, db:editing, db:releasedate, db:producer
+db:writer, db:knownfor-inv, db:distributor, db:starring, db:director, db:editing, db:producer
+db:language, db:artist
+db:award-inv, db:knownfor-inv, db:cinematography

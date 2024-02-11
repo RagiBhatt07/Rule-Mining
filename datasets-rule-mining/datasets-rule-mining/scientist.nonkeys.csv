@@ -1,0 +1,444 @@
+doctoralstudent-inv, almamater, birthplace, doctoraladvisor, deathplace
+description, person-inv
+birthyear, nationality, deathcause
+birthplace, profession, institution
+birthyear, doctoraladvisor-inv
+field, deathyear, birthplace, citizenship, deathplace
+birthyear, field, residence, alias, almamater, birthplace, description, name, birthdate, citizenship
+field, nationality, influenced, influencedby
+birthyear, field, residence, almamater, description, deathplace
+education, institution, knownfor
+field, nationality, residence, almamater, description, doctoraladvisor, deathplace
+deathyear, profession
+description, academicadvisor, award, deathplace
+birthyear, nationality, country
+influencedby-inv, award, influenced-inv
+deathyear, nationality, birthplace, description, citizenship
+field, schoolpatron-inv, award, citizenship, knownfor
+nationality, doctoralstudent, residence, birthplace, doctoraladvisor-inv
+institution, deathplace
+author-inv, influenced-inv
+birthyear, almamater, academicadvisor, award, deathplace
+influencedby, doctoraladvisor
+doctoralstudent-inv, birthyear, almamater, doctoraladvisor
+birthyear, description, award, citizenship
+birthyear, editor-inv, residence
+birthplace, description, starring-inv
+deathyear, almamater, deathdate, deathplace
+field, author-inv, notablestudent-inv
+influencedby-inv, nationality
+residence, almamater, description, citizenship, doctoraladvisor
+birthyear, deathyear, birthplace, citizenship, deathplace
+field, deathyear, birthplace, description, award, doctoraladvisor, deathplace, knownfor
+rdf-schema#seealso, birthplace, award, citizenship, deathplace
+field, award, developer-inv, knownfor
+birthyear, field, nationality, residence, almamater, description
+influencedby-inv, field, influenced-inv
+deathyear, nationality, starring-inv, deathplace
+presenter-inv, birthplace, award
+birthyear, field, nationality, almamater, description, award
+deathyear, binomialauthority-inv
+birthyear, field, almamater, birthplace, description, doctoraladvisor
+field, residence, almamater, viafid, award, knownfor
+award, person-inv
+birthyear, field, birthplace, description, award, deathplace
+field, deathyear, influencedby
+birthplace, activeyearsstartyear
+field, doctoralstudent, almamater, award, doctoraladvisor, deathplace
+doctoralstudent, almamater, birthplace, description, citizenship, deathplace, knownfor
+birthplace, academicadvisor, influenced-inv
+field, nationality, almamater, citizenship, influencedby
+field, nationality, deathcause, description, deathplace
+birthyear, field, almamater, birthplace, award, knownfor
+influencedby-inv, field, almamater, notablestudent, deathplace
+field, nationality, discoverer-inv, description
+almamater, description, citizenship, doctoraladvisor, deathplace
+field, residence, almamater, birthplace, description, award, citizenship
+deathyear, name, deathdate
+foundedby-inv, residence, birthplace, citizenship
+birthyear, nationality, birthplace, description, citizenship, deathplace
+viafid, deathplace
+description, influencedby, knownfor
+birthyear, field, deathyear, birthdate
+field, nationality, birthplace, description, award, citizenship
+residence, birthplace, influencedby, deathplace
+nationality, notablestudent-inv
+birthyear, deathyear, nationality, residence, almamater
+deathyear, nationality, residence, birthplace, description, deathplace
+field, description, academicadvisor, citizenship
+activeyearsendyear, birthplace
+nationality, deathcause, almamater
+nationality, residence, almamater, birthplace, description, doctoraladvisor, deathplace
+field, nationality, almamater, name, award
+birthyear, field, editor-inv, award
+nationality, stateoforigin
+birthyear, nationality, residence, almamater, birthplace, award, citizenship, knownfor
+birthyear, nationality, residence, citizenship, deathplace
+field, nationality, residence, description, award, deathplace
+nationality, description, academicadvisor, award, citizenship
+deathyear, residence, citizenship, deathdate, deathplace
+field, description, name, award, knownfor
+country, deathplace
+field, award, influenced-inv
+field, birthplace, binomialauthority-inv
+birthyear, deathyear, almamater, description, doctoraladvisor, deathplace
+birthyear, field, developer-inv, knownfor
+birthyear, nationality, almamater, description, birthdate, deathplace
+nationality, doctoralstudent, almamater, birthplace, doctoraladvisor, deathplace
+field, foundedby-inv, description, award
+nationality, education, deathplace
+birthyear, description, academicadvisor, award
+field, nationality, birthplace, influenced-inv
+birthyear, nationality, residence, almamater, birthplace, academicadvisor, award, citizenship
+deathyear, birthplace, description, notablestudent-inv
+birthyear, deathyear, birthplace, award
+deathyear, nationality, residence, birthplace, citizenship, deathplace
+birthyear, field, almamater, birthplace, starring-inv
+field, nationality, doctoralstudent, almamater, description, doctoraladvisor
+birthyear, nationality, residence, birthplace, description, doctoraladvisor, deathplace
+field, nationality, doctoralstudent, description, award
+field, academicadvisor, notablestudent-inv
+deathyear, birthplace, description, citizenship, deathplace
+deathyear, residence, almamater, description
+field, nationality, description, country, knownfor
+influencedby-inv, influenced-inv, knownfor
+keyperson-inv, deathplace
+field, nationality, residence, almamater, description, author-inv
+birthyear, field, nationality, residence, almamater, birthplace, birthdate, award, citizenship, doctoraladvisor
+almamater, birthplace, award, influencedby
+field, residence, description, keyperson-inv
+deathyear, nationality, deathdate, knownfor
+field, description, influencedby, influenced-inv
+birthyear, deathyear, nationality, residence, birthplace, deathplace
+birthyear, deathplace, knownfor
+deathyear, nationality, residence, award, citizenship, deathplace
+deathyear, nationality, academicadvisor
+birthyear, deathyear, birthdate, deathplace
+birthyear, nationality, almamater, birthplace, description, award
+binomialauthority-inv, deathplace
+field, doctoralstudent, birthplace, knownfor
+nationality, influencedby, influenced-inv
+deathyear, nationality, birthplace, deathdate
+doctoralstudent-inv, residence, almamater, description, doctoraladvisor
+doctoralstudent-inv, birthyear, birthplace, award, doctoraladvisor, deathplace
+field, deathyear, nationality, almamater, deathdate
+field, nationality, residence, award, influenced
+birthyear, field, influenced
+binomialauthority-inv, award, knownfor
+birthyear, description, profession
+name, viafid
+deathyear, residence, almamater, award
+deathyear, nationality, almamater, birthplace, award, deathplace
+field, nationality, doctoralstudent, almamater, doctoraladvisor-inv, deathplace
+birthyear, description, keyperson-inv
+nationality, residence, birthplace, name, citizenship
+deathyear, almamater, award, knownfor
+nationality, doctoralstudent, description, award, deathplace
+almamater, owl#differentfrom-inv, owl#differentfrom
+activeyearsendyear, deathyear
+field, birthplace, description, name, award, deathplace
+birthyear, nationality, residence, almamater, birthplace, deathplace
+rdf-schema#seealso, field, nationality, description, knownfor
+birthyear, nationality, description, knownfor
+rdf-schema#seealso, field, almamater, birthplace, description, deathplace
+birthyear, deathyear, nationality, award
+activeyearsstartyear, knownfor
+field, deathyear, nationality, residence, award
+nationality, residence, almamater, birthplace, award, citizenship, deathplace
+field, almamater, deathdate, deathplace
+profession, knownfor
+almamater, academicadvisor, award, doctoraladvisor
+field, foundedby-inv, description, knownfor
+occupation, birthplace
+field, residence, birthplace, description, award, citizenship, deathplace, knownfor
+birthyear, institution
+birthplace, influenced, deathplace
+birthyear, field, almamater, influencedby
+birthyear, field, almamater, birthplace, description, citizenship, knownfor
+field, deathyear, nationality, description, award, deathplace
+description, notablestudent-inv, deathplace
+nationality, description, award, influencedby
+field, residence, almamater, birthplace, influencedby
+field, nationality, editor-inv, almamater, description
+birthplace, award, country
+nationality, person-inv
+field, designer-inv, description, award, knownfor
+field, designer-inv, deathyear, birthplace, award, deathplace, knownfor
+deathyear, nationality, deathcause, birthplace, description, doctoraladvisor, deathplace
+field, doctoralstudent, residence, almamater, birthplace, deathplace
+birthplace, profession, deathplace
+deathyear, influencedby, influenced-inv
+nationality, doctoralstudent, residence, birthplace, description
+field, nationality, residence, birthplace, description, citizenship, deathplace, knownfor
+field, award, influencedby
+nationality, description, award, citizenship, deathplace
+species-inv
+musicalartist-inv, musicalband-inv
+deathyear, nationality, deathdate, deathplace
+birthyear, field, deathyear, citizenship
+viafid, individualisedgnd
+almamater, birthplace, influencedby, influenced-inv
+doctoralstudent-inv, birthyear, description, doctoraladvisor
+field, nationality, residence, birthplace, doctoraladvisor, deathplace
+field, nationality, editor-inv, almamater, birthplace
+doctoralstudent, birthplace, doctoraladvisor-inv, deathplace
+birthyear, almamater, birthplace, description, citizenship, deathplace
+birthyear, nationality, birthplace, description, birthdate, deathplace
+field, almamater, birthplace, description, academicadvisor, doctoraladvisor, knownfor
+nationality, almamater, birthplace, description, award, doctoraladvisor, knownfor
+deathyear, almamater, description, award
+deathyear, doctoralstudent, award, knownfor
+birthyear, nationality, almamater, birthplace, award, deathplace
+field, doctoralstudent, almamater, description, knownfor
+field, residence, author-inv, citizenship
+nationality, residence, deathcause, description, deathplace
+birthyear, field, nationality, almamater, description, academicadvisor
+field, designer-inv, description, author-inv, developer-inv, knownfor
+birthplace, description, profession
+field, nationality, almamater, birthplace, description, doctoraladvisor, deathplace, knownfor
+field, nationality, birthplace, description, award, deathplace
+birthyear, nationality, residence, almamater, birthplace, description
+influencedby-inv, influenced, deathplace
+field, almamater, birthplace, discoverer-inv, knownfor
+field, deathyear, nationality, description, doctoraladvisor, deathplace
+activeyearsendyear, profession
+birthyear, field, award, starring-inv
+description, citizenship, deathdate
+birthyear, award, influencedby
+profession, education, institution
+birthyear, deathyear, award, citizenship
+field, nationality, almamater, description, award, citizenship, doctoraladvisor, knownfor
+birthplace, description, influencedby, deathplace
+almamater, award, keyperson-inv
+birthplace, education, institution
+birthyear, field, deathyear, residence
+birthyear, field, nationality, almamater, description, doctoraladvisor, deathplace
+field, deathyear, nationality, residence, description
+deathyear, academicadvisor, award
+doctoralstudent-inv, nationality, almamater, birthplace, description, doctoraladvisor
+field, nationality, developer-inv, knownfor
+influencedby-inv, doctoralstudent
+birthyear, field, nationality, residence, birthplace, description, award
+doctoralstudent-inv, field, nationality, birthplace, doctoraladvisor
+birthyear, almamater, birthplace, nobellaureates-inv
+influencedby-inv, field, almamater, birthplace
+nationality, residence, country
+birthplace, profession, education
+field, nationality, keyperson-inv
+deathyear, almamater, birthplace, knownfor
+birthyear, activeyearsstartyear
+doctoralstudent-inv, field, deathyear, almamater, birthplace, doctoraladvisor
+almamater, influencedby, knownfor
+residence, almamater, citizenship, country
+description, starring-inv, knownfor
+field, residence, almamater, birthplace, citizenship, deathplace
+field, binomialauthority-inv, award
+residence, almamater, description, award, doctoraladvisor
+deathyear, doctoralstudent, almamater, award, deathplace
+viafid, lccnid
+field, nationality, doctoralstudent, description, doctoraladvisor-inv, deathplace
+field, nationality, award, citizenship, deathplace
+nationality, residence, birthplace, description, award, citizenship, knownfor
+residence, keyperson-inv, knownfor
+field, nationality, residence, almamater, description, citizenship, knownfor
+nationality, owl#differentfrom
+birthyear, field, residence, birthplace, description, birthdate, deathplace
+field, nationality, residence, almamater, birthplace, academicadvisor, award, notablestudent, deathplace, knownfor
+deathyear, description, deathdate, deathplace
+rdf-schema#seealso, almamater, birthplace, description, award
+field, nationality, award, developer-inv
+birthyear, deathyear, nationality, citizenship
+field, nationality, residence, almamater, birthplace, description, award, knownfor
+field, doctoralstudent, almamater, academicadvisor, award
+field, designer-inv, author-inv, citizenship, developer-inv, knownfor
+nationality, residence, deathcause, birthplace
+field, residence, almamater, description, citizenship, deathplace
+deathyear, nationality, birthplace, doctoraladvisor-inv
+birthyear, residence, birthplace, award, deathplace
+field, residence, influencedby, deathplace
+field, designer-inv, almamater, birthplace
+deathyear, institution
+field, deathyear, nationality, almamater, doctoraladvisor
+nationality, almamater, birthplace, description, academicadvisor
+deathyear, birthplace, deathdate, deathplace
+deathyear, birthplace, award, citizenship, deathplace
+birthyear, field, almamater, description, citizenship, doctoraladvisor
+nationality, influenced-inv, knownfor
+knownfor-inv, award
+residence, birthplace, citizenship, influenced
+field, nationality, foundedby-inv
+field, deathyear, nationality, residence, birthplace, deathplace
+almamater, birthplace, description, academicadvisor, citizenship
+field, nationality, editor-inv, description, award
+activeyearsendyear, activeyearsstartyear
+doctoralstudent, residence, birthplace, description, doctoraladvisor, deathplace
+birthyear, field, deathyear, almamater, doctoraladvisor
+presenter-inv, knownfor
+influencedby-inv, field, almamater, influencedby
+rdf-schema#seealso, influencedby
+field, residence, almamater, birthplace, description, award, deathplace
+influenced-inv, deathplace
+birthyear, field, citizenship, deathplace
+nationality, description, influenced, deathplace, knownfor
+nationality, description, profession, education
+influenced, influencedby, influenced-inv
+birthyear, nationality, citizenship, keyperson-inv
+founder-inv, nationality, knownfor
+nationality, almamater, name, citizenship
+field, residence, description, name, knownfor
+doctoralstudent-inv, birthyear, field, birthplace, doctoraladvisor
+influencedby-inv, academicadvisor, award
+almamater, birthplace, award, doctoraladvisor, deathplace
+nationality, doctoralstudent, residence, almamater, birthplace, deathplace
+field, birthplace, citizenship, influencedby, deathplace
+field, nationality, residence, almamater, birthplace, description, deathplace, knownfor
+nationality, almamater, birthplace, influenced-inv
+field, nationality, almamater, birthplace, description, citizenship, knownfor
+nationality, residence, almamater, birthplace, award, birthname, knownfor
+basedon-inv
+field, almamater, award, influenced, knownfor
+relation-inv
+birthyear, nationality, almamater, award, citizenship, deathplace
+doctoralstudent-inv, almamater, description, award, doctoraladvisor
+field, designer-inv, foundedby-inv, award, keyperson-inv, knownfor
+field, nationality, almamater, description, influenced-inv
+field, description, starring-inv
+birthyear, deathyear, almamater, birthdate
+field, nationality, residence, almamater, description, academicadvisor
+field, editor-inv, almamater, award
+influencedby-inv, field, award, deathplace, knownfor
+birthyear, deathyear, almamater, citizenship
+doctoralstudent, birthplace, academicadvisor-inv
+field, almamater, description, influencedby, deathplace
+rdf-schema#seealso, residence, influenced
+birthyear, field, almamater, author-inv, award
+birthyear, description, country
+field, deathyear, nationality, birthplace, citizenship
+birthyear, education
+field, nationality, description, name, award
+doctoralstudent, description, award, doctoraladvisor
+field, nationality, doctoralstudent, birthplace
+almamater, keyperson-inv, knownfor
+deathyear, country
+field, birthplace, influencedby, knownfor
+doctoralstudent-inv, field, nationality, almamater, description, doctoraladvisor
+field, deathyear, foundedby-inv, knownfor
+residence, almamater, birthplace, doctoraladvisor, knownfor
+nationality, birthplace, country
+doctoralstudent-inv, field, birthplace, description, doctoraladvisor
+deathyear, residence, almamater, birthplace, citizenship, deathplace
+field, nationality, doctoralstudent, author-inv, knownfor
+field, residence, description, award, citizenship, country
+nationality, residence, birthplace, description, award, deathplace
+nationality, residence, almamater, description, award, citizenship
+field, foundedby-inv, residence, knownfor
+birthplace, influenced, knownfor
+field, doctoralstudent, birthplace, description, award
+field, almamater, birthplace, academicadvisor, award, citizenship
+field, almamater, birthplace, description, award, doctoraladvisor, knownfor
+description, citizenship, influencedby
+birthplace, relative-inv
+doctoralstudent-inv, field, nationality, description, doctoraladvisor, knownfor
+doctoralstudent, birthplace, award, deathplace
+field, deathyear, almamater, doctoraladvisor, deathplace
+birthyear, field, nationality, almamater, birthplace, description, birthdate
+deathyear, nationality, residence, description, award
+field, nationality, almamater, description, award, deathplace
+field, nationality, binomialauthority-inv
+birthyear, nationality, almamater, birthplace, doctoraladvisor, deathplace
+field, nationality, doctoralstudent, residence, almamater, description
+deathyear, award, deathdate
+birthyear, field, residence, almamater, description, knownfor
+birthyear, field, deathyear, description, award
+birthyear, deathyear, description, deathdate
+field, deathyear, academicadvisor
+field, deathyear, doctoralstudent
+field, almamater, description, influenced
+nationality, academicadvisor, award, citizenship, knownfor
+birthyear, field, nationality, residence, birthplace, knownfor
+parent-inv
+influencedby-inv, field, residence, citizenship, knownfor
+nationality, almamater, academicadvisor, citizenship, deathplace
+birthyear, birthplace, profession
+birthplace, description, education
+description, award, influenced
+birthyear, field, designer-inv, knownfor
+profession, activeyearsstartyear
+doctoralstudent-inv, nationality, almamater, description, doctoraladvisor, deathplace
+doctoralstudent-inv, field, doctoralstudent, doctoraladvisor, deathplace
+field, deathyear, almamater, birthplace, award, deathplace
+field, nationality, birthplace, description, name, deathplace
+birthyear, field, nationality, almamater, description, citizenship
+foundedby-inv, editor-inv
+field, doctoralstudent, almamater, birthplace, description, deathplace
+nationality, almamater, description, academicadvisor, citizenship
+field, residence, almamater, birthplace, citizenship, knownfor
+deathyear, almamater, birthplace, description, citizenship
+field, description, award-inv
+field, nationality, academicadvisor, award, citizenship
+birthyear, influencedby, influenced-inv
+birthyear, field, deathyear, knownfor
+award, citizenship, starring-inv
+nationality, residence, birthplace, description, influencedby
+birthyear, deathyear, description, citizenship
+nationality, almamater, description, award, deathplace, knownfor
+name, influencedby, knownfor
+doctoralstudent-inv, deathyear, nationality, almamater, description, doctoraladvisor
+residence, almamater, influenced, doctoraladvisor
+birthplace, influenced, influencedby
+field, nationality, birthplace, description, influencedby
+field, residence, almamater, description, doctoraladvisor, knownfor
+nationality, almamater, description, country
+birthyear, field, almamater, notablestudent
+rdf-schema#seealso, field, birthplace, description, award, citizenship, knownfor
+field, child-inv
+influencedby-inv, field, influenced
+nationality, birthplace, award, citizenship, deathplace, knownfor
+influencedby-inv, birthyear
+field, nationality, almamater, birthplace, description, award, doctoraladvisor
+field, residence, almamater, birthplace, description, doctoraladvisor
+birthyear, description, award, knownfor
+field, deathyear, residence, description, citizenship, deathplace
+residence, almamater, birthplace, award, citizenship, deathplace, knownfor
+field, deathyear, description, deathdate
+field, founder-inv
+field, award, award-inv
+foundedby-inv, almamater
+field, birthplace, author-inv
+field, description, notablestudent
+deathyear, award, influenced
+doctoralstudent-inv, field, description, doctoraladvisor, deathplace
+nationality, residence, award, citizenship, influencedby
+field, nationality, description, name, knownfor
+field, almamater, description, nobellaureates-inv
+doctoralstudent, almamater, description, doctoraladvisor, deathplace
+field, nationality, residence, almamater, award, citizenship, doctoraladvisor, knownfor
+birthyear, field, deathyear, nationality, almamater, birthplace, description, deathplace
+field, deathyear, residence, almamater
+nationality, description, viafid
+nationality, profession, deathplace
+description, profession, institution
+field, deathyear, deathdate, deathplace
+birthyear, field, doctoralstudent, birthplace, description
+award, doctoraladvisor-inv
+almamater, author-inv, knownfor
+residence, description, name, deathplace
+field, nationality, almamater, birthplace, description, citizenship, deathplace
+field, almamater, doctoraladvisor, influenced-inv
+deathyear, nationality, residence, description, deathplace, knownfor
+deathyear, nationality, doctoralstudent
+editor-inv, citizenship
+influencedby-inv, field, description, award
+birthyear, deathyear, residence, citizenship
+birthyear, deathyear, deathdate, deathplace
+birthyear, nationality, birthplace, influenced-inv
+birthyear, almamater, birthplace, award, citizenship, deathplace
+birthyear, field, award, notablestudent
+field, designer-inv, award, developer-inv, deathplace
+field, deathyear, nationality, description, citizenship
+deathyear, nationality, residence, almamater, birthplace, citizenship
+field, nationality, birthplace, award-inv, deathplace
+field, description, binomialauthority-inv
+deathyear, nationality, residence, deathdate
+field, designer-inv, nationality
+deathyear, nationality, residence, almamater, citizenship, deathplace
