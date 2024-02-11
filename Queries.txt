@@ -9,27 +9,30 @@ PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX dbp: <http://dbpedia.org/property/>
 
-SELECT ?a ?birthPlaceLabel ?nationalityLabel ?deathPlaceLabel WHERE {
+SELECT ?writerNameLabel ?birthPlaceLabel ?nationalityLabel ?deathPlaceLabel WHERE {
   ?a rdf:type dbo:Writer.
   
-  OPTIONAL {
-    ?a dbo:birthPlace ?birthPlace.
-    OPTIONAL {?birthPlace rdfs:label ?birthPlaceTmp FILTER(LANG(?birthPlaceTmp) = "en")}
-    BIND(COALESCE(?birthPlaceTmp, STR(?birthPlace)) AS ?birthPlaceLabel)
-  }
+  ?a rdfs:label ?writerNameLabel.
+  FILTER(LANG(?writerNameLabel) = "en").
   
-  OPTIONAL {
-    ?a dbp:nationality ?nationality.
-    OPTIONAL {?nationality rdfs:label ?nationalityTmp FILTER(LANG(?nationalityTmp) = "en")}
-    BIND(COALESCE(?nationalityTmp, STR(?nationality)) AS ?nationalityLabel)
-  }
+  ?a dbo:birthPlace ?birthPlace.
+  ?birthPlace rdfs:label ?birthPlaceTmp.
+  FILTER(LANG(?birthPlaceTmp) = "en").
+  BIND(COALESCE(?birthPlaceTmp, STR(?birthPlace)) AS ?birthPlaceLabel).
   
-  OPTIONAL {
-    ?a dbp:deathPlace ?deathPlace.
-    OPTIONAL {?deathPlace rdfs:label ?deathPlaceTmp FILTER(LANG(?deathPlaceTmp) = "en")}
-    BIND(COALESCE(?deathPlaceTmp, STR(?deathPlace)) AS ?deathPlaceLabel)
-  }
+  ?a dbp:nationality ?nationality.
+  ?nationality rdfs:label ?nationalityTmp.
+  FILTER(LANG(?nationalityTmp) = "en").
+  BIND(COALESCE(?nationalityTmp, STR(?nationality)) AS ?nationalityLabel).
+ 
+
+?a dbp:deathPlace ?deathPlace.
+ ?deathPlace rdf:type dbo:Country .
+  ?deathPlace rdfs:label ?deathPlaceTmp.
+  FILTER(LANG(?deathPlaceTmp) = "en").
+  BIND(COALESCE(?deathPlaceTmp, STR(?deathPlace)) AS ?deathPlaceLabel).
 }
+
 
 
 Query:2
@@ -43,28 +46,25 @@ PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX dbp: <http://dbpedia.org/property/>
 
-SELECT ?writer ?birthPlaceLabel ?nationality ?country ?deathPlaceLabel WHERE {
-  ?writer rdf:type dbo:Writer .
+SELECT ?writerName ?birthPlaceLabel ?nationality ?country ?deathPlaceLabel WHERE {
+  ?writer rdf:type dbo:Writer.
   
-  OPTIONAL {
-    ?writer dbo:birthPlace ?birthPlace .
-    ?birthPlace rdfs:label ?birthPlaceLabel .
-    FILTER(LANG(?birthPlaceLabel) = "en")
-  }
+  ?writer rdfs:label ?writerName.
+  FILTER(LANG(?writerName) = "en").
   
-  OPTIONAL {
-    ?writer dbp:nationality ?nationality .
-  }
+  ?writer dbo:birthPlace ?birthPlace.
+  ?birthPlace rdfs:label ?birthPlaceLabel.
+  FILTER(LANG(?birthPlaceLabel) = "en").
   
-  OPTIONAL {
-    ?writer dbo:country ?country .
-  }
+  ?writer dbp:nationality ?nationality.
   
-  OPTIONAL {
-    ?writer dbo:deathPlace ?deathPlace .
-    OPTIONAL {?deathPlace rdfs:label ?deathPlaceLabel FILTER(LANG(?deathPlaceLabel) = "en")}
-    BIND(COALESCE(?deathPlaceLabel, STR(?deathPlace)) AS ?deathPlaceLabel)
-  }
+  ?writer dbo:country ?countryResource.
+  ?countryResource rdfs:label ?country.
+  FILTER(LANG(?country) = "en").
+  
+  ?writer dbo:deathPlace ?deathPlace.
+  ?deathPlace rdfs:label ?deathPlaceLabel.
+  FILTER(LANG(?deathPlaceLabel) = "en").
 }
 
 Query:3
@@ -77,24 +77,20 @@ PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 PREFIX dbp: <http://dbpedia.org/property/>
 
-SELECT ?writer ?childLabel ?parentLabel ?spouseLabel WHERE {
+SELECT ?writerName ?childLabel ?parentLabel ?spouseLabel WHERE {
   ?writer rdf:type dbo:Writer .
+  ?writer rdfs:label ?writerName .
+  FILTER(LANG(?writerName) = "en").
   
-  OPTIONAL {
-    ?writer dbo:child ?child .
-    ?child rdfs:label ?childLabel .
-    FILTER(LANG(?childLabel) = "en")
-  }
+  ?writer dbo:child ?child .
+  ?child rdfs:label ?childLabel .
+  FILTER(LANG(?childLabel) = "en").
   
-  OPTIONAL {
-    ?child dbo:parent ?parent .
-    ?parent rdfs:label ?parentLabel .
-    FILTER(LANG(?parentLabel) = "en")
-  }
+  ?child dbo:parent ?parent .
+  ?parent rdfs:label ?parentLabel .
+  FILTER(LANG(?parentLabel) = "en").
   
-  OPTIONAL {
-    ?writer dbo:spouse ?spouse .
-    ?spouse rdfs:label ?spouseLabel .
-    FILTER(LANG(?spouseLabel) = "en")
-  }
+  ?writer dbo:spouse ?spouse .
+  ?spouse rdfs:label ?spouseLabel .
+  FILTER(LANG(?spouseLabel) = "en").
 }
